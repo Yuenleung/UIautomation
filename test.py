@@ -14,13 +14,13 @@ while i < 10:
 
 
 
-#利用for循环，完成a=[1,7,4,89,34,2]的冒泡排序
-a = [1, 7, 4, 89, 34, 2]
-for i in range(0, len(a)):
-    for j in range(i + 1, len(a)):
-        if a[i] > a[j]:
-            a[i], a[j] = a[j], a[i]
-print(a)  
+# 利用for循环，完成a=[1,7,4,89,34,2]的冒泡排序
+# a = [1, 7, 4, 89, 34, 2]
+# for i in range(0, len(a)):
+#     for j in range(i + 1, len(a)):
+#         if a[i] > a[j]:
+#             a[i], a[j] = a[j], a[i]
+# print(a)
 
 '''
 a = '* '
