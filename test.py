@@ -13,7 +13,7 @@ while i < 10:
 
 
 
-'''
+
 #利用for循环，完成a=[1,7,4,89,34,2]的冒泡排序
 a = [1, 7, 4, 89, 34, 2]
 for i in range(0, len(a)):
@@ -21,7 +21,6 @@ for i in range(0, len(a)):
         if a[i] > a[j]:
             a[i], a[j] = a[j], a[i]
 print(a)  
-'''
 
 '''
 a = '* '
@@ -50,5 +49,5 @@ print(type(C))
 '''
 
 
-A1 = zip(('a','b','c','d','e'),(1,2,3,4,5))
-print(A1)
+# A1 = zip(('a','b','c','d','e'),(1,2,3,4,5))
+# print(A1)
