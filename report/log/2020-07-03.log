@@ -1,0 +1,148 @@
+2020-07-03 17:46:28,352 - root - INFO - 启动Chrome浏览器
+2020-07-03 17:46:31,726 - root - INFO - 打开链接：http://172.16.88.198/
+2020-07-03 17:46:31,729 - root - INFO - 隐式等待20秒
+2020-07-03 17:46:32,869 - root - INFO - 窗口最大化
+2020-07-03 17:46:32,894 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='商家编号']
+2020-07-03 17:46:33,093 - root - INFO - 输入的内容：nz
+2020-07-03 17:46:33,114 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 17:46:33,179 - root - INFO - 清空成功
+2020-07-03 17:46:33,192 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 17:46:33,315 - root - INFO - 输入的内容：admin
+2020-07-03 17:46:33,336 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 17:46:33,386 - root - INFO - 清空成功
+2020-07-03 17:46:33,401 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 17:46:33,539 - root - INFO - 输入的内容：admin
+2020-07-03 17:46:33,561 - root - INFO - 元素定位成功。定位方式：class,使用的值：login-button
+2020-07-03 17:46:33,732 - root - INFO - 点击元素成功
+2020-07-03 17:46:53,794 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='logo']/a/h1"}
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2020-07-03 17:46:53,795 - root - ERROR - 获取元素('xpath', "//div[@class='logo']/a/h1")的文本信息错误,'NoneType' object has no attribute 'text'
+2020-07-03 17:46:53,811 - root - ERROR - 断言登录失败
+2020-07-03 17:50:34,306 - root - INFO - 启动Chrome浏览器
+2020-07-03 17:50:39,755 - root - INFO - 打开链接：http://172.16.88.198/
+2020-07-03 17:50:39,758 - root - INFO - 隐式等待20秒
+2020-07-03 17:50:40,886 - root - INFO - 窗口最大化
+2020-07-03 17:50:40,908 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='商家编号']
+2020-07-03 17:50:41,008 - root - INFO - 输入的内容：nz
+2020-07-03 17:50:41,032 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 17:50:41,092 - root - INFO - 清空成功
+2020-07-03 17:50:41,107 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 17:50:41,230 - root - INFO - 输入的内容：admin
+2020-07-03 17:50:41,253 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 17:50:41,308 - root - INFO - 清空成功
+2020-07-03 17:50:41,322 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 17:50:41,466 - root - INFO - 输入的内容：admin
+2020-07-03 17:50:41,489 - root - INFO - 元素定位成功。定位方式：class,使用的值：login-button
+2020-07-03 17:50:41,587 - root - INFO - 点击元素成功
+2020-07-03 17:50:56,971 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[@class='logo']/a/h1
+2020-07-03 17:50:56,972 - root - ERROR - 获取元素('xpath', "//div[@class='logo']/a/h1")的文本信息错误,'NoneType' object has no attribute 'text'
+2020-07-03 17:50:56,973 - root - ERROR - 断言登录失败
+2020-07-03 17:54:11,916 - root - INFO - 启动Chrome浏览器
+2020-07-03 17:54:17,661 - root - INFO - 打开链接：http://172.16.88.198/
+2020-07-03 17:54:17,663 - root - INFO - 隐式等待20秒
+2020-07-03 17:54:18,788 - root - INFO - 窗口最大化
+2020-07-03 17:54:18,812 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='商家编号']
+2020-07-03 17:54:18,926 - root - INFO - 输入的内容：nz
+2020-07-03 17:54:18,949 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 17:54:19,007 - root - INFO - 清空成功
+2020-07-03 17:54:19,021 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 17:54:19,146 - root - INFO - 输入的内容：admin
+2020-07-03 17:54:19,167 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 17:54:19,232 - root - INFO - 清空成功
+2020-07-03 17:54:19,248 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 17:54:19,373 - root - INFO - 输入的内容：admin
+2020-07-03 17:54:19,393 - root - INFO - 元素定位成功。定位方式：class,使用的值：login-button
+2020-07-03 17:54:19,497 - root - INFO - 点击元素成功
+2020-07-03 17:54:32,351 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[@class='logo']/a/h1
+2020-07-03 17:54:32,352 - root - ERROR - 获取元素('xpath', "//div[@class='logo']/a/h1")的文本信息错误,'NoneType' object has no attribute 'text'
+2020-07-03 17:54:32,352 - root - ERROR - 断言登录失败
+2020-07-03 17:55:06,343 - root - INFO - 启动Chrome浏览器
+2020-07-03 17:55:11,032 - root - INFO - 打开链接：http://172.16.88.198/
+2020-07-03 17:55:11,036 - root - INFO - 隐式等待20秒
+2020-07-03 17:55:12,198 - root - INFO - 窗口最大化
+2020-07-03 17:55:12,222 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='商家编号']
+2020-07-03 17:55:12,322 - root - INFO - 输入的内容：nz
+2020-07-03 17:55:12,347 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 17:55:12,401 - root - INFO - 清空成功
+2020-07-03 17:55:12,416 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 17:55:12,537 - root - INFO - 输入的内容：admin
+2020-07-03 17:55:12,564 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 17:55:12,616 - root - INFO - 清空成功
+2020-07-03 17:55:12,631 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 17:55:12,760 - root - INFO - 输入的内容：admin
+2020-07-03 17:55:12,784 - root - INFO - 元素定位成功。定位方式：class,使用的值：login-button
+2020-07-03 17:55:12,869 - root - INFO - 点击元素成功
+2020-07-03 17:55:32,891 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='logo']/a/h1"}
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2020-07-03 17:55:32,891 - root - ERROR - 获取元素('xpath', "//div[@class='logo']/a/h1")的文本信息错误,'NoneType' object has no attribute 'text'
+2020-07-03 17:55:32,892 - root - ERROR - 断言登录失败
+2020-07-03 17:55:54,852 - root - INFO - 启动Chrome浏览器
+2020-07-03 17:56:06,651 - root - INFO - 打开链接：http://172.16.88.198/
+2020-07-03 17:56:06,654 - root - INFO - 隐式等待20秒
+2020-07-03 17:56:07,774 - root - INFO - 窗口最大化
+2020-07-03 17:56:07,796 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='商家编号']
+2020-07-03 17:56:07,896 - root - INFO - 输入的内容：nz
+2020-07-03 17:56:07,918 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 17:56:07,976 - root - INFO - 清空成功
+2020-07-03 17:56:07,990 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 17:56:08,119 - root - INFO - 输入的内容：admin
+2020-07-03 17:56:08,139 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 17:56:08,200 - root - INFO - 清空成功
+2020-07-03 17:56:08,218 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 17:56:08,338 - root - INFO - 输入的内容：admin
+2020-07-03 17:56:08,362 - root - INFO - 元素定位成功。定位方式：class,使用的值：login-button
+2020-07-03 17:56:08,455 - root - INFO - 点击元素成功
+2020-07-03 17:56:28,463 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='logo']/a/h1"}
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2020-07-03 17:56:28,463 - root - ERROR - 获取元素('xpath', "//div[@class='logo']/a/h1")的文本信息错误,'NoneType' object has no attribute 'text'
+2020-07-03 17:56:28,464 - root - ERROR - 断言登录失败
+2020-07-03 18:02:55,823 - root - INFO - 启动Chrome浏览器
+2020-07-03 18:02:59,591 - root - INFO - 打开链接：http://172.16.88.198/
+2020-07-03 18:02:59,593 - root - INFO - 隐式等待20秒
+2020-07-03 18:03:00,760 - root - INFO - 窗口最大化
+2020-07-03 18:03:00,780 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='商家编号']
+2020-07-03 18:03:00,871 - root - INFO - 输入的内容：nz
+2020-07-03 18:03:00,895 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 18:03:00,946 - root - INFO - 清空成功
+2020-07-03 18:03:00,959 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 18:03:01,085 - root - INFO - 输入的内容：admin
+2020-07-03 18:03:01,106 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 18:03:01,157 - root - INFO - 清空成功
+2020-07-03 18:03:01,170 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 18:03:01,283 - root - INFO - 输入的内容：admin
+2020-07-03 18:03:01,304 - root - INFO - 元素定位成功。定位方式：class,使用的值：login-button
+2020-07-03 18:03:01,386 - root - INFO - 点击元素成功
+2020-07-03 18:03:21,416 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='logo']/a/h1"}
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2020-07-03 18:03:21,417 - root - ERROR - 获取元素('xpath', "//div[@class='logo']/a/h1")的文本信息错误,'NoneType' object has no attribute 'text'
+2020-07-03 18:03:21,418 - root - ERROR - 断言登录失败
+2020-07-03 18:04:38,350 - root - INFO - 启动Chrome浏览器
+2020-07-03 18:04:41,238 - root - INFO - 打开链接：http://172.16.88.198/
+2020-07-03 18:04:41,240 - root - INFO - 隐式等待20秒
+2020-07-03 18:04:42,382 - root - INFO - 窗口最大化
+2020-07-03 18:04:42,409 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='商家编号']
+2020-07-03 18:04:42,515 - root - INFO - 输入的内容：nz
+2020-07-03 18:04:42,538 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 18:04:42,596 - root - INFO - 清空成功
+2020-07-03 18:04:42,613 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='账号']
+2020-07-03 18:04:42,735 - root - INFO - 输入的内容：admin
+2020-07-03 18:04:42,763 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 18:04:42,816 - root - INFO - 清空成功
+2020-07-03 18:04:42,831 - root - INFO - 元素定位成功。定位方式：css,使用的值：[placeholder='密码']
+2020-07-03 18:04:42,955 - root - INFO - 输入的内容：admin
+2020-07-03 18:04:42,986 - root - INFO - 元素定位成功。定位方式：class,使用的值：login-button
+2020-07-03 18:04:43,090 - root - INFO - 点击元素成功
+2020-07-03 18:05:03,134 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='logo']/a/h1"}
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2020-07-03 18:05:03,142 - root - ERROR - 获取元素('xpath', "//div[@class='logo']/a/h1")的文本信息错误,'NoneType' object has no attribute 'text'
+2020-07-03 18:05:03,143 - root - ERROR - 断言登录失败

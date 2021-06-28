@@ -1,0 +1,1925 @@
+2021-06-23 10:38:35,250 - root - INFO - 启动Chrome浏览器
+2021-06-23 10:38:35,838 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 10:39:47,219 - root - INFO - 启动Chrome浏览器
+2021-06-23 10:39:47,699 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 10:40:57,766 - root - INFO - 启动Chrome浏览器
+2021-06-23 10:41:23,148 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 10:43:00,148 - root - INFO - 启动Chrome浏览器
+2021-06-23 10:43:00,593 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 10:43:00,608 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 10:43:00,652 - root - INFO - 点击元素成功
+2021-06-23 10:46:09,682 - root - INFO - 启动Chrome浏览器
+2021-06-23 10:46:10,602 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 10:46:10,615 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 10:46:10,656 - root - INFO - 点击元素成功
+2021-06-23 10:47:24,996 - root - INFO - 启动Chrome浏览器
+2021-06-23 10:47:25,458 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 10:47:25,459 - root - INFO - 隐式等待20秒
+2021-06-23 10:47:25,574 - root - INFO - 窗口最大化
+2021-06-23 10:47:25,586 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 10:47:25,620 - root - INFO - 点击元素成功
+2021-06-23 10:51:35,778 - root - INFO - 启动Chrome浏览器
+2021-06-23 10:51:36,237 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 10:51:36,239 - root - INFO - 隐式等待20秒
+2021-06-23 10:51:36,355 - root - INFO - 窗口最大化
+2021-06-23 10:51:36,367 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 10:51:36,402 - root - INFO - 点击元素成功
+2021-06-23 10:51:36,413 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 10:51:36,515 - root - INFO - 输入的内容：18588671117
+2021-06-23 10:51:36,525 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 10:51:36,598 - root - INFO - 输入的内容：18588671117
+2021-06-23 10:52:12,556 - root - INFO - 启动Chrome浏览器
+2021-06-23 10:52:13,047 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 10:52:13,048 - root - INFO - 隐式等待20秒
+2021-06-23 10:52:13,164 - root - INFO - 窗口最大化
+2021-06-23 10:52:13,177 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 10:52:13,212 - root - INFO - 点击元素成功
+2021-06-23 10:52:13,223 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 10:52:13,321 - root - INFO - 输入的内容：18588671117
+2021-06-23 10:52:13,330 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 10:52:13,400 - root - INFO - 输入的内容：18588671117
+2021-06-23 10:52:13,410 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 10:52:13,439 - root - INFO - 点击元素成功
+2021-06-23 10:54:42,099 - root - INFO - 启动Chrome浏览器
+2021-06-23 10:54:42,576 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 10:54:42,577 - root - INFO - 隐式等待20秒
+2021-06-23 10:54:42,694 - root - INFO - 窗口最大化
+2021-06-23 10:54:42,707 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 10:54:42,740 - root - INFO - 点击元素成功
+2021-06-23 10:54:42,750 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 10:54:42,853 - root - INFO - 输入的内容：18588671117
+2021-06-23 10:54:42,863 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 10:54:42,937 - root - INFO - 输入的内容：18588671117
+2021-06-23 10:54:42,948 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 10:54:42,977 - root - INFO - 点击元素成功
+2021-06-23 10:54:43,167 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 10:55:02,064 - root - INFO - 点击元素成功
+2021-06-23 11:09:41,024 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:09:41,661 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:09:41,662 - root - INFO - 隐式等待20秒
+2021-06-23 11:09:41,776 - root - INFO - 窗口最大化
+2021-06-23 11:09:41,787 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:09:41,820 - root - INFO - 点击元素成功
+2021-06-23 11:09:41,831 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:09:41,933 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:09:41,943 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:09:42,015 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:09:42,025 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:09:42,062 - root - INFO - 点击元素成功
+2021-06-23 11:09:42,247 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 11:10:01,212 - root - INFO - 点击元素成功
+2021-06-23 11:10:01,225 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 11:10:01,238 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 11:21:26,509 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:21:27,192 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:21:27,194 - root - INFO - 隐式等待20秒
+2021-06-23 11:21:27,307 - root - INFO - 窗口最大化
+2021-06-23 11:21:27,319 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:21:27,351 - root - INFO - 点击元素成功
+2021-06-23 11:21:27,362 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:21:27,460 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:21:27,470 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:21:27,542 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:21:27,552 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:21:27,582 - root - INFO - 点击元素成功
+2021-06-23 11:21:27,769 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 11:21:46,982 - root - INFO - 点击元素成功
+2021-06-23 11:21:47,000 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 11:21:47,014 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 11:21:47,014 - root - INFO - 断言登录成功
+2021-06-23 11:21:59,390 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:22:00,033 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:22:00,148 - root - INFO - 窗口最大化
+2021-06-23 11:22:00,161 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:22:00,191 - root - INFO - 点击元素成功
+2021-06-23 11:22:00,202 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:22:00,305 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:22:00,315 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:22:00,387 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:22:00,399 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:22:00,429 - root - INFO - 点击元素成功
+2021-06-23 11:22:00,440 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='美家咖']"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:24:50,820 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:24:51,465 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:24:51,580 - root - INFO - 窗口最大化
+2021-06-23 11:24:51,591 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:24:51,623 - root - INFO - 点击元素成功
+2021-06-23 11:24:51,633 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:24:51,740 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:24:51,750 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:24:51,824 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:24:51,834 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:24:51,862 - root - INFO - 点击元素成功
+2021-06-23 11:24:51,871 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='美家咖']"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:24:51,872 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 11:24:51,872 - root - INFO - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 11:27:00,469 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:27:01,142 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:27:01,255 - root - INFO - 窗口最大化
+2021-06-23 11:27:01,267 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:27:01,302 - root - INFO - 点击元素成功
+2021-06-23 11:27:01,312 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:27:01,413 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:27:01,423 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:27:01,495 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:27:01,505 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:27:01,536 - root - INFO - 点击元素成功
+2021-06-23 11:27:01,546 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='美家咖']"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:27:01,547 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 11:27:01,547 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 11:27:43,187 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:27:43,855 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:27:43,969 - root - INFO - 窗口最大化
+2021-06-23 11:27:43,981 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:27:44,014 - root - INFO - 点击元素成功
+2021-06-23 11:27:44,025 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:27:44,133 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:27:44,143 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:27:44,217 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:27:44,227 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:27:44,256 - root - INFO - 点击元素成功
+2021-06-23 11:27:44,267 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='美家咖']"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:27:44,267 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 11:27:44,267 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 11:29:08,385 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:29:09,043 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:29:09,159 - root - INFO - 窗口最大化
+2021-06-23 11:29:09,172 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:29:09,208 - root - INFO - 点击元素成功
+2021-06-23 11:29:09,218 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:29:09,323 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:29:09,332 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:29:09,415 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:29:09,427 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:29:09,460 - root - INFO - 点击元素成功
+2021-06-23 11:29:09,471 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='美家咖']"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:29:09,472 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 11:29:09,472 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 11:30:40,672 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:30:41,304 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:30:41,305 - root - INFO - 隐式等待20秒
+2021-06-23 11:30:41,421 - root - INFO - 窗口最大化
+2021-06-23 11:30:41,436 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:30:41,469 - root - INFO - 点击元素成功
+2021-06-23 11:30:41,479 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:30:41,587 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:30:41,597 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:30:41,667 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:30:41,678 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:30:41,708 - root - INFO - 点击元素成功
+2021-06-23 11:30:41,888 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 11:31:00,824 - root - INFO - 点击元素成功
+2021-06-23 11:31:00,843 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 11:31:00,857 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 11:31:00,858 - root - INFO - 断言登录成功
+2021-06-23 11:42:18,488 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:42:19,007 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:42:19,009 - root - INFO - 隐式等待20秒
+2021-06-23 11:42:19,126 - root - INFO - 窗口最大化
+2021-06-23 11:42:19,138 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:42:19,172 - root - INFO - 点击元素成功
+2021-06-23 11:42:19,184 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:42:19,289 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:42:19,299 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:42:19,370 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:42:19,381 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:42:19,411 - root - INFO - 点击元素成功
+2021-06-23 11:42:19,588 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 11:42:39,475 - root - INFO - 点击元素成功
+2021-06-23 11:42:39,495 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 11:42:39,509 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 11:42:39,509 - root - INFO - 断言登录成功
+2021-06-23 11:42:59,526 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//li[text()='企业管理']"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:42:59,527 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 11:42:59,528 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 11:50:45,493 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:50:46,135 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:50:46,136 - root - INFO - 隐式等待20秒
+2021-06-23 11:50:46,251 - root - INFO - 窗口最大化
+2021-06-23 11:50:46,262 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:50:46,297 - root - INFO - 点击元素成功
+2021-06-23 11:50:46,308 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:50:46,408 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:50:46,417 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:50:46,490 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:50:46,500 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:50:46,529 - root - INFO - 点击元素成功
+2021-06-23 11:50:46,717 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 11:51:05,626 - root - INFO - 点击元素成功
+2021-06-23 11:51:05,645 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 11:51:05,659 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 11:51:05,659 - root - INFO - 断言登录成功
+2021-06-23 11:51:05,677 - root - ERROR - 报错信息：Message: invalid selector: The result of the xpath expression "//*[@id='menuBox']/li[1]/div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:51:05,677 - root - ERROR - 获取元素('xpath', "//*[@id='menuBox']/li[1]/div/text()")的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-23 11:51:25,708 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//li[text()='企业管理']"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:51:25,710 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 11:51:25,711 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 11:53:31,439 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:53:32,125 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:53:32,127 - root - INFO - 隐式等待20秒
+2021-06-23 11:53:32,243 - root - INFO - 窗口最大化
+2021-06-23 11:53:32,255 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:53:32,290 - root - INFO - 点击元素成功
+2021-06-23 11:53:32,301 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:53:32,401 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:53:32,411 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:53:32,481 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:53:32,491 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:53:32,522 - root - INFO - 点击元素成功
+2021-06-23 11:53:32,714 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 11:53:51,725 - root - INFO - 点击元素成功
+2021-06-23 11:53:51,736 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 11:53:51,751 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 11:53:51,752 - root - INFO - 断言登录成功
+2021-06-23 11:53:51,768 - root - ERROR - 报错信息：Message: invalid selector: Unable to locate an element with the xpath expression //li[contains(text()='企业管理')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//li[contains(text()='企业管理')]' is not a valid XPath expression.
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:53:51,768 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 11:53:51,769 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 11:54:59,852 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:55:00,490 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:55:00,492 - root - INFO - 隐式等待20秒
+2021-06-23 11:55:00,608 - root - INFO - 窗口最大化
+2021-06-23 11:55:00,621 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:55:00,663 - root - INFO - 点击元素成功
+2021-06-23 11:55:00,675 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:55:00,783 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:55:00,796 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:55:00,868 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:55:00,878 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:55:00,907 - root - INFO - 点击元素成功
+2021-06-23 11:55:01,098 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 11:55:20,129 - root - INFO - 点击元素成功
+2021-06-23 11:55:20,147 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 11:55:20,161 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 11:55:20,161 - root - INFO - 断言登录成功
+2021-06-23 11:55:40,211 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='企业管理']"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:55:40,212 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 11:55:40,213 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 11:57:33,548 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:57:34,206 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:57:34,208 - root - INFO - 隐式等待20秒
+2021-06-23 11:57:34,323 - root - INFO - 窗口最大化
+2021-06-23 11:57:34,334 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:57:34,366 - root - INFO - 点击元素成功
+2021-06-23 11:57:34,376 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:57:34,479 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:57:34,490 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:57:34,561 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:57:34,571 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:57:34,601 - root - INFO - 点击元素成功
+2021-06-23 11:57:34,786 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 11:57:53,713 - root - INFO - 点击元素成功
+2021-06-23 11:57:53,733 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 11:57:53,747 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 11:57:53,748 - root - INFO - 断言登录成功
+2021-06-23 11:57:53,760 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//*[contains(text(),'企业管理')]
+2021-06-23 11:57:53,797 - root - INFO - 点击元素成功
+2021-06-23 11:57:53,797 - root - INFO - 展开企业管理模块
+2021-06-23 11:58:13,843 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//li[text()='经销商管理']"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:58:13,844 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 11:58:13,845 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 11:58:36,312 - root - INFO - 启动Chrome浏览器
+2021-06-23 11:58:36,972 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 11:58:36,974 - root - INFO - 隐式等待20秒
+2021-06-23 11:58:37,091 - root - INFO - 窗口最大化
+2021-06-23 11:58:37,104 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 11:58:37,136 - root - INFO - 点击元素成功
+2021-06-23 11:58:37,145 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 11:58:37,245 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:58:37,254 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 11:58:37,336 - root - INFO - 输入的内容：18588671117
+2021-06-23 11:58:37,346 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 11:58:37,376 - root - INFO - 点击元素成功
+2021-06-23 11:58:37,554 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 11:58:56,468 - root - INFO - 点击元素成功
+2021-06-23 11:58:56,479 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 11:58:56,492 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 11:58:56,493 - root - INFO - 断言登录成功
+2021-06-23 11:59:16,553 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//li[contains(text(),'企业管理')]"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 11:59:16,553 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 11:59:16,554 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 12:01:33,627 - root - INFO - 启动Chrome浏览器
+2021-06-23 12:01:34,147 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 12:01:34,149 - root - INFO - 隐式等待20秒
+2021-06-23 12:01:34,264 - root - INFO - 窗口最大化
+2021-06-23 12:01:34,275 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 12:01:34,308 - root - INFO - 点击元素成功
+2021-06-23 12:01:34,317 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 12:01:34,419 - root - INFO - 输入的内容：18588671117
+2021-06-23 12:01:34,429 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 12:01:34,501 - root - INFO - 输入的内容：18588671117
+2021-06-23 12:01:34,510 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 12:01:34,540 - root - INFO - 点击元素成功
+2021-06-23 12:01:34,707 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 12:01:53,605 - root - INFO - 点击元素成功
+2021-06-23 12:01:53,624 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 12:01:53,637 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 12:01:53,638 - root - INFO - 断言登录成功
+2021-06-23 12:01:53,648 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 12:01:53,682 - root - INFO - 点击元素成功
+2021-06-23 12:01:53,682 - root - INFO - 展开企业管理模块
+2021-06-23 12:02:13,702 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'经销商管理')]"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 12:02:13,703 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 12:02:13,703 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 12:09:05,230 - root - INFO - 启动Chrome浏览器
+2021-06-23 12:09:05,738 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 12:09:05,740 - root - INFO - 隐式等待20秒
+2021-06-23 12:09:05,854 - root - INFO - 窗口最大化
+2021-06-23 12:09:05,866 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 12:09:05,899 - root - INFO - 点击元素成功
+2021-06-23 12:09:05,910 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 12:09:06,012 - root - INFO - 输入的内容：18588671117
+2021-06-23 12:09:06,022 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 12:09:06,094 - root - INFO - 输入的内容：18588671117
+2021-06-23 12:09:06,105 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 12:09:06,134 - root - INFO - 点击元素成功
+2021-06-23 12:09:06,306 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 12:09:25,228 - root - INFO - 点击元素成功
+2021-06-23 12:09:25,240 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 12:09:25,253 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 12:09:25,253 - root - INFO - 断言登录成功
+2021-06-23 12:09:25,265 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 12:09:25,303 - root - INFO - 点击元素成功
+2021-06-23 12:09:25,303 - root - INFO - 展开企业管理菜单
+2021-06-23 12:09:25,317 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 12:09:25,424 - root - INFO - 点击元素成功
+2021-06-23 12:13:09,676 - root - INFO - 启动Chrome浏览器
+2021-06-23 12:13:10,217 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 12:13:10,218 - root - INFO - 隐式等待20秒
+2021-06-23 12:13:10,335 - root - INFO - 窗口最大化
+2021-06-23 12:13:10,348 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 12:13:10,381 - root - INFO - 点击元素成功
+2021-06-23 12:13:10,392 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 12:13:10,493 - root - INFO - 输入的内容：18588671117
+2021-06-23 12:13:10,503 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 12:13:10,576 - root - INFO - 输入的内容：18588671117
+2021-06-23 12:13:10,587 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 12:13:10,618 - root - INFO - 点击元素成功
+2021-06-23 12:13:10,799 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 12:13:29,683 - root - INFO - 点击元素成功
+2021-06-23 12:13:29,701 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 12:13:29,714 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 12:13:29,715 - root - INFO - 断言登录成功
+2021-06-23 12:13:29,726 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 12:13:29,762 - root - INFO - 点击元素成功
+2021-06-23 12:13:29,762 - root - INFO - 展开企业管理菜单
+2021-06-23 12:13:29,775 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 12:13:29,954 - root - INFO - 点击元素成功
+2021-06-23 12:13:29,975 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 12:13:29,986 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 13:51:27,812 - root - INFO - 启动Chrome浏览器
+2021-06-23 13:51:28,332 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 13:51:28,334 - root - INFO - 隐式等待20秒
+2021-06-23 13:51:28,448 - root - INFO - 窗口最大化
+2021-06-23 13:51:28,460 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 13:51:28,493 - root - INFO - 点击元素成功
+2021-06-23 13:51:28,504 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 13:51:28,603 - root - INFO - 输入的内容：18588671117
+2021-06-23 13:51:28,613 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 13:51:28,681 - root - INFO - 输入的内容：18588671117
+2021-06-23 13:51:28,693 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 13:51:28,724 - root - INFO - 点击元素成功
+2021-06-23 13:51:28,896 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 13:51:47,830 - root - INFO - 点击元素成功
+2021-06-23 13:51:47,850 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 13:51:47,865 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 13:51:47,866 - root - INFO - 断言登录成功
+2021-06-23 13:51:47,876 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 13:51:47,913 - root - INFO - 点击元素成功
+2021-06-23 13:51:47,913 - root - INFO - 展开企业管理菜单
+2021-06-23 13:51:47,925 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 13:51:48,109 - root - INFO - 点击元素成功
+2021-06-23 13:51:48,123 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 13:51:48,135 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 13:51:48,135 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 13:57:37,168 - root - INFO - 启动Chrome浏览器
+2021-06-23 13:57:37,683 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 13:57:37,684 - root - INFO - 隐式等待20秒
+2021-06-23 13:57:37,800 - root - INFO - 窗口最大化
+2021-06-23 13:57:37,812 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 13:57:37,845 - root - INFO - 点击元素成功
+2021-06-23 13:57:37,857 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 13:57:37,963 - root - INFO - 输入的内容：18588671117
+2021-06-23 13:57:37,973 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 13:57:38,045 - root - INFO - 输入的内容：18588671117
+2021-06-23 13:57:38,055 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 13:57:38,085 - root - INFO - 点击元素成功
+2021-06-23 13:57:38,257 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 13:57:57,170 - root - INFO - 点击元素成功
+2021-06-23 13:57:57,188 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 13:57:57,202 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 13:57:57,203 - root - INFO - 断言登录成功
+2021-06-23 13:57:57,213 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 13:57:57,249 - root - INFO - 点击元素成功
+2021-06-23 13:57:57,249 - root - INFO - 展开企业管理菜单
+2021-06-23 13:57:57,262 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 13:57:57,368 - root - INFO - 点击元素成功
+2021-06-23 13:57:57,382 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 13:57:57,397 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 13:57:57,397 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 13:57:57,410 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'员工管理')]
+2021-06-23 13:57:57,521 - root - INFO - 点击元素成功
+2021-06-23 13:57:57,531 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 13:57:57,593 - root - INFO - 获取元素('css', '.section-header')的文本信息为：员工管理
+2021-06-23 13:57:57,593 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 13:57:57,689 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片管理')]
+2021-06-23 13:57:57,892 - root - INFO - 点击元素成功
+2021-06-23 13:57:57,906 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 13:57:57,958 - root - INFO - 获取元素('css', '.section-header')的文本信息为：名片管理
+2021-06-23 13:57:57,959 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 13:57:57,971 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'渠道管理')]
+2021-06-23 13:57:58,029 - root - INFO - 点击元素成功
+2021-06-23 13:57:58,039 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 13:57:58,051 - root - INFO - 获取元素('css', '.section-header')的文本信息为：渠道管理
+2021-06-23 13:57:58,052 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 13:57:58,097 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'企业视频管理')]
+2021-06-23 13:57:58,149 - root - INFO - 点击元素成功
+2021-06-23 13:57:58,159 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 13:57:58,172 - root - INFO - 获取元素('css', '.section-header')的文本信息为：企业视频管理
+2021-06-23 13:57:58,172 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 13:57:58,184 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'站内信')]
+2021-06-23 13:57:58,230 - root - INFO - 点击元素成功
+2021-06-23 13:57:58,242 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 13:57:58,253 - root - INFO - 获取元素('css', '.section-header')的文本信息为：基本信息
+2021-06-23 13:57:58,254 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 13:59:45,099 - root - INFO - 启动Chrome浏览器
+2021-06-23 13:59:45,607 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 13:59:45,608 - root - INFO - 隐式等待20秒
+2021-06-23 13:59:45,725 - root - INFO - 窗口最大化
+2021-06-23 13:59:45,739 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 13:59:45,780 - root - INFO - 点击元素成功
+2021-06-23 13:59:45,790 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 13:59:45,890 - root - INFO - 输入的内容：18588671117
+2021-06-23 13:59:45,901 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 13:59:45,966 - root - INFO - 输入的内容：18588671117
+2021-06-23 13:59:45,975 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 13:59:46,005 - root - INFO - 点击元素成功
+2021-06-23 13:59:46,179 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 14:00:05,130 - root - INFO - 点击元素成功
+2021-06-23 14:00:05,147 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 14:00:05,162 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 14:00:05,162 - root - INFO - 断言登录成功
+2021-06-23 14:00:05,173 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 14:00:05,209 - root - INFO - 点击元素成功
+2021-06-23 14:00:05,210 - root - INFO - 展开企业管理菜单
+2021-06-23 14:00:05,222 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 14:00:05,329 - root - INFO - 点击元素成功
+2021-06-23 14:00:05,343 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:00:05,355 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 14:00:05,355 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 14:00:05,370 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'员工管理')]
+2021-06-23 14:00:05,488 - root - INFO - 点击元素成功
+2021-06-23 14:00:05,501 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:00:05,525 - root - INFO - 获取元素('css', '.section-header')的文本信息为：员工管理
+2021-06-23 14:00:05,526 - root - INFO - 用例test_yuangongguanli通过
+2021-06-23 14:00:05,632 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片管理')]
+2021-06-23 14:00:05,733 - root - INFO - 点击元素成功
+2021-06-23 14:00:05,745 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:00:05,791 - root - INFO - 获取元素('css', '.section-header')的文本信息为：名片管理
+2021-06-23 14:00:05,792 - root - INFO - 用例test_mingpianguanli通过
+2021-06-23 14:00:05,816 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'渠道管理')]
+2021-06-23 14:00:05,883 - root - INFO - 点击元素成功
+2021-06-23 14:00:05,894 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:00:05,905 - root - INFO - 获取元素('css', '.section-header')的文本信息为：渠道管理
+2021-06-23 14:00:05,906 - root - INFO - 用例test_qudaoguanli通过
+2021-06-23 14:00:05,952 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'企业视频管理')]
+2021-06-23 14:00:05,994 - root - INFO - 点击元素成功
+2021-06-23 14:00:06,008 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:00:06,019 - root - INFO - 获取元素('css', '.section-header')的文本信息为：企业视频管理
+2021-06-23 14:00:06,020 - root - INFO - 用例test_qiyeshipingguanli通过
+2021-06-23 14:00:06,032 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'站内信')]
+2021-06-23 14:00:06,081 - root - INFO - 点击元素成功
+2021-06-23 14:00:06,090 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:00:06,101 - root - INFO - 获取元素('css', '.section-header')的文本信息为：基本信息
+2021-06-23 14:00:06,102 - root - INFO - 用例zhanneixin通过
+2021-06-23 14:12:48,867 - root - INFO - 启动Chrome浏览器
+2021-06-23 14:12:49,393 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 14:12:49,395 - root - INFO - 隐式等待20秒
+2021-06-23 14:12:49,508 - root - INFO - 窗口最大化
+2021-06-23 14:12:49,519 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 14:12:49,555 - root - INFO - 点击元素成功
+2021-06-23 14:12:49,566 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 14:12:49,665 - root - INFO - 输入的内容：18588671117
+2021-06-23 14:12:49,675 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 14:12:49,746 - root - INFO - 输入的内容：18588671117
+2021-06-23 14:12:49,756 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 14:12:49,785 - root - INFO - 点击元素成功
+2021-06-23 14:12:49,967 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 14:13:09,009 - root - INFO - 点击元素成功
+2021-06-23 14:13:09,026 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 14:13:09,039 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 14:13:09,040 - root - INFO - 断言登录成功
+2021-06-23 14:13:09,053 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 14:13:09,092 - root - INFO - 点击元素成功
+2021-06-23 14:13:09,092 - root - INFO - 展开企业管理菜单
+2021-06-23 14:13:09,106 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 14:13:09,210 - root - INFO - 点击元素成功
+2021-06-23 14:13:09,227 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:13:09,239 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 14:13:09,239 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 14:13:09,253 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'员工管理')]
+2021-06-23 14:13:09,367 - root - INFO - 点击元素成功
+2021-06-23 14:13:09,378 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:13:09,397 - root - INFO - 获取元素('css', '.section-header')的文本信息为：员工管理
+2021-06-23 14:13:09,397 - root - INFO - 用例test_yuangongguanli通过
+2021-06-23 14:13:09,411 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片管理')]
+2021-06-23 14:13:09,601 - root - INFO - 点击元素成功
+2021-06-23 14:13:09,614 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:13:09,627 - root - INFO - 获取元素('css', '.section-header')的文本信息为：名片管理
+2021-06-23 14:13:09,627 - root - INFO - 用例test_mingpianguanli通过
+2021-06-23 14:13:09,688 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'渠道管理')]
+2021-06-23 14:13:09,757 - root - INFO - 点击元素成功
+2021-06-23 14:13:09,765 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:13:09,777 - root - INFO - 获取元素('css', '.section-header')的文本信息为：渠道管理
+2021-06-23 14:13:09,777 - root - INFO - 用例test_qudaoguanli通过
+2021-06-23 14:13:09,812 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'企业视频管理')]
+2021-06-23 14:13:09,871 - root - INFO - 点击元素成功
+2021-06-23 14:13:09,880 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:13:09,893 - root - INFO - 获取元素('css', '.section-header')的文本信息为：企业视频管理
+2021-06-23 14:13:09,893 - root - INFO - 用例test_qiyeshipingguanli通过
+2021-06-23 14:13:09,905 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'站内信')]
+2021-06-23 14:13:09,963 - root - INFO - 点击元素成功
+2021-06-23 14:13:09,973 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:13:09,985 - root - INFO - 获取元素('css', '.section-header')的文本信息为：基本信息
+2021-06-23 14:13:09,985 - root - INFO - 用例zhanneixin通过
+2021-06-23 14:23:43,769 - root - INFO - 启动Chrome浏览器
+2021-06-23 14:23:44,282 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 14:23:44,284 - root - INFO - 隐式等待20秒
+2021-06-23 14:23:44,419 - root - INFO - 窗口最大化
+2021-06-23 14:23:44,429 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 14:23:44,463 - root - INFO - 点击元素成功
+2021-06-23 14:23:44,475 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 14:23:44,536 - root - INFO - 输入的内容：18588671117
+2021-06-23 14:23:44,546 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 14:23:44,598 - root - INFO - 输入的内容：18588671117
+2021-06-23 14:23:44,610 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 14:23:44,645 - root - INFO - 点击元素成功
+2021-06-23 14:23:44,826 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 14:24:03,807 - root - INFO - 点击元素成功
+2021-06-23 14:24:03,819 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 14:24:03,832 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 14:24:03,832 - root - INFO - 断言登录成功
+2021-06-23 14:24:03,843 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'客户管理')]
+2021-06-23 14:24:03,879 - root - INFO - 点击元素成功
+2021-06-23 14:24:03,879 - root - INFO - 展开客户管理菜单
+2021-06-23 14:24:03,890 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'客户数据')]
+2021-06-23 14:24:04,057 - root - INFO - 点击元素成功
+2021-06-23 14:24:04,079 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:24:04,091 - root - INFO - 获取元素('css', '.section-header')的文本信息为：客户资源
+2021-06-23 14:24:04,092 - root - INFO - 用例test_kehushuju通过
+2021-06-23 14:57:23,284 - root - INFO - 启动Chrome浏览器
+2021-06-23 14:57:23,835 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 14:57:23,837 - root - INFO - 隐式等待20秒
+2021-06-23 14:57:23,952 - root - INFO - 窗口最大化
+2021-06-23 14:57:23,964 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 14:57:24,000 - root - INFO - 点击元素成功
+2021-06-23 14:57:24,011 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 14:57:24,114 - root - INFO - 输入的内容：18588671117
+2021-06-23 14:57:24,124 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 14:57:24,198 - root - INFO - 输入的内容：18588671117
+2021-06-23 14:57:24,209 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 14:57:24,240 - root - INFO - 点击元素成功
+2021-06-23 14:57:24,442 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 14:57:43,526 - root - INFO - 点击元素成功
+2021-06-23 14:57:43,551 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 14:57:43,566 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 14:57:43,567 - root - INFO - 断言登录成功
+2021-06-23 14:57:43,578 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'客户管理')]
+2021-06-23 14:57:43,612 - root - INFO - 点击元素成功
+2021-06-23 14:57:43,612 - root - INFO - 展开客户管理菜单
+2021-06-23 14:57:43,625 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'客户数据')]
+2021-06-23 14:57:43,853 - root - INFO - 点击元素成功
+2021-06-23 14:57:43,901 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 14:57:43,915 - root - INFO - 获取元素('css', '.section-header')的文本信息为：客户资源
+2021-06-23 14:57:43,915 - root - INFO - 用例test_kehushuju通过
+2021-06-23 14:57:44,124 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信用户')]
+2021-06-23 14:57:44,209 - root - INFO - 点击元素成功
+2021-06-23 14:57:44,223 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 14:57:44,239 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：微信昵称
+2021-06-23 14:57:44,240 - root - INFO - 用例test_weixinyonghu通过
+2021-06-23 14:57:44,280 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'公海客户')]
+2021-06-23 14:57:44,373 - root - INFO - 点击元素成功
+2021-06-23 14:58:04,398 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".section-header"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 14:58:04,400 - root - ERROR - 获取元素('css', '.section-header')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-23 14:58:04,401 - root - ERROR - 断言失败:assert None == ''
+2021-06-23 15:01:24,896 - root - INFO - 启动Chrome浏览器
+2021-06-23 15:01:25,416 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 15:01:25,418 - root - INFO - 隐式等待20秒
+2021-06-23 15:01:25,531 - root - INFO - 窗口最大化
+2021-06-23 15:01:25,543 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 15:01:25,576 - root - INFO - 点击元素成功
+2021-06-23 15:01:25,587 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 15:01:25,690 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:01:25,700 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 15:01:25,772 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:01:25,783 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 15:01:25,812 - root - INFO - 点击元素成功
+2021-06-23 15:01:26,002 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 15:01:45,015 - root - INFO - 点击元素成功
+2021-06-23 15:01:45,033 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 15:01:45,048 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 15:01:45,049 - root - INFO - 断言登录成功
+2021-06-23 15:01:45,060 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'客户管理')]
+2021-06-23 15:01:45,095 - root - INFO - 点击元素成功
+2021-06-23 15:01:45,095 - root - INFO - 展开客户管理菜单
+2021-06-23 15:01:45,106 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'客户数据')]
+2021-06-23 15:01:45,272 - root - INFO - 点击元素成功
+2021-06-23 15:01:45,298 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:01:45,309 - root - INFO - 获取元素('css', '.section-header')的文本信息为：客户资源
+2021-06-23 15:01:45,310 - root - INFO - 用例test_kehushuju通过
+2021-06-23 15:01:45,322 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信用户')]
+2021-06-23 15:01:45,577 - root - INFO - 点击元素成功
+2021-06-23 15:01:45,588 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 15:01:45,601 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：微信昵称
+2021-06-23 15:01:45,601 - root - INFO - 用例test_weixinyonghu通过
+2021-06-23 15:01:45,653 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'公海客户')]
+2021-06-23 15:01:45,732 - root - INFO - 点击元素成功
+2021-06-23 15:01:45,743 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 15:01:45,755 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：未分配
+2021-06-23 15:01:45,755 - root - INFO - 用例test_gonghaikehu通过
+2021-06-23 15:10:07,184 - root - INFO - 启动Chrome浏览器
+2021-06-23 15:10:07,695 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 15:10:07,696 - root - INFO - 隐式等待20秒
+2021-06-23 15:10:07,808 - root - INFO - 窗口最大化
+2021-06-23 15:10:07,821 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 15:10:07,860 - root - INFO - 点击元素成功
+2021-06-23 15:10:07,871 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 15:10:07,974 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:10:07,984 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 15:10:08,055 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:10:08,064 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 15:10:08,095 - root - INFO - 点击元素成功
+2021-06-23 15:10:08,282 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 15:10:27,426 - root - INFO - 点击元素成功
+2021-06-23 15:10:27,444 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 15:10:27,458 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 15:10:27,459 - root - INFO - 断言登录成功
+2021-06-23 15:10:27,470 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 15:10:27,506 - root - INFO - 点击元素成功
+2021-06-23 15:10:27,506 - root - INFO - 展开企业管理菜单
+2021-06-23 15:10:27,519 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 15:10:27,679 - root - INFO - 点击元素成功
+2021-06-23 15:10:27,691 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:10:27,703 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 15:10:27,704 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 15:10:27,717 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'员工管理')]
+2021-06-23 15:10:27,829 - root - INFO - 点击元素成功
+2021-06-23 15:10:27,841 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:10:27,860 - root - INFO - 获取元素('css', '.section-header')的文本信息为：员工管理
+2021-06-23 15:10:27,860 - root - INFO - 用例test_yuangongguanli通过
+2021-06-23 15:10:27,921 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片管理')]
+2021-06-23 15:10:28,078 - root - INFO - 点击元素成功
+2021-06-23 15:10:28,086 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:10:28,097 - root - INFO - 获取元素('css', '.section-header')的文本信息为：名片管理
+2021-06-23 15:10:28,097 - root - INFO - 用例test_mingpianguanli通过
+2021-06-23 15:10:28,113 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'渠道管理')]
+2021-06-23 15:10:28,225 - root - INFO - 点击元素成功
+2021-06-23 15:10:28,235 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:10:28,246 - root - INFO - 获取元素('css', '.section-header')的文本信息为：渠道管理
+2021-06-23 15:10:28,247 - root - INFO - 用例test_qudaoguanli通过
+2021-06-23 15:10:28,282 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'企业视频管理')]
+2021-06-23 15:10:28,333 - root - INFO - 点击元素成功
+2021-06-23 15:10:28,346 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:10:28,358 - root - INFO - 获取元素('css', '.section-header')的文本信息为：企业视频管理
+2021-06-23 15:10:28,359 - root - INFO - 用例test_qiyeshipingguanli通过
+2021-06-23 15:10:28,372 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'站内信')]
+2021-06-23 15:10:28,420 - root - INFO - 点击元素成功
+2021-06-23 15:10:28,430 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:10:28,442 - root - INFO - 获取元素('css', '.section-header')的文本信息为：基本信息
+2021-06-23 15:10:28,442 - root - INFO - 用例zhanneixin通过
+2021-06-23 15:14:39,148 - root - INFO - 启动Chrome浏览器
+2021-06-23 15:14:39,684 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 15:14:39,685 - root - INFO - 隐式等待20秒
+2021-06-23 15:14:39,801 - root - INFO - 窗口最大化
+2021-06-23 15:14:39,813 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 15:14:39,847 - root - INFO - 点击元素成功
+2021-06-23 15:14:39,858 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 15:14:39,958 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:14:39,968 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 15:14:40,035 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:14:40,045 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 15:14:40,075 - root - INFO - 点击元素成功
+2021-06-23 15:14:40,257 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 15:14:59,372 - root - INFO - 点击元素成功
+2021-06-23 15:14:59,384 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 15:14:59,400 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 15:14:59,401 - root - INFO - 断言登录成功
+2021-06-23 15:14:59,413 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 15:14:59,448 - root - INFO - 点击元素成功
+2021-06-23 15:14:59,449 - root - INFO - 展开企业管理菜单
+2021-06-23 15:14:59,462 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 15:14:59,623 - root - INFO - 点击元素成功
+2021-06-23 15:14:59,635 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:14:59,649 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 15:14:59,650 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 15:14:59,663 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'员工管理')]
+2021-06-23 15:14:59,768 - root - INFO - 点击元素成功
+2021-06-23 15:14:59,780 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:14:59,790 - root - INFO - 获取元素('css', '.section-header')的文本信息为：员工管理
+2021-06-23 15:14:59,790 - root - INFO - 用例test_yuangongguanli通过
+2021-06-23 15:14:59,855 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片管理')]
+2021-06-23 15:15:00,021 - root - INFO - 点击元素成功
+2021-06-23 15:15:00,032 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:15:00,046 - root - INFO - 获取元素('css', '.section-header')的文本信息为：名片管理
+2021-06-23 15:15:00,047 - root - INFO - 用例test_mingpianguanli通过
+2021-06-23 15:15:00,109 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'渠道管理')]
+2021-06-23 15:15:00,174 - root - INFO - 点击元素成功
+2021-06-23 15:15:00,183 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:15:00,195 - root - INFO - 获取元素('css', '.section-header')的文本信息为：渠道管理
+2021-06-23 15:15:00,195 - root - INFO - 用例test_qudaoguanli通过
+2021-06-23 15:15:00,207 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'企业视频管理')]
+2021-06-23 15:15:00,276 - root - INFO - 点击元素成功
+2021-06-23 15:15:00,286 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:15:00,298 - root - INFO - 获取元素('css', '.section-header')的文本信息为：企业视频管理
+2021-06-23 15:15:00,298 - root - INFO - 用例test_qiyeshipingguanli通过
+2021-06-23 15:15:00,308 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'站内信')]
+2021-06-23 15:15:00,354 - root - INFO - 点击元素成功
+2021-06-23 15:15:00,363 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:15:00,374 - root - INFO - 获取元素('css', '.section-header')的文本信息为：基本信息
+2021-06-23 15:15:00,375 - root - INFO - 用例zhanneixin通过
+2021-06-23 15:15:00,387 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'客户管理')]
+2021-06-23 15:15:00,429 - root - INFO - 点击元素成功
+2021-06-23 15:15:00,430 - root - INFO - 展开客户管理菜单
+2021-06-23 15:15:00,441 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'客户数据')]
+2021-06-23 15:15:00,642 - root - INFO - 点击元素成功
+2021-06-23 15:15:00,665 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:15:00,683 - root - INFO - 获取元素('css', '.section-header')的文本信息为：客户资源
+2021-06-23 15:15:00,684 - root - INFO - 用例test_kehushuju通过
+2021-06-23 15:15:00,701 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信用户')]
+2021-06-23 15:15:00,939 - root - INFO - 点击元素成功
+2021-06-23 15:15:00,954 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 15:15:00,991 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：微信昵称
+2021-06-23 15:15:00,992 - root - INFO - 用例test_weixinyonghu通过
+2021-06-23 15:15:01,014 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'公海客户')]
+2021-06-23 15:15:01,085 - root - INFO - 点击元素成功
+2021-06-23 15:15:01,100 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 15:15:01,114 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：未分配
+2021-06-23 15:15:01,115 - root - INFO - 用例test_gonghaikehu通过
+2021-06-23 15:15:39,816 - root - INFO - 启动Chrome浏览器
+2021-06-23 15:15:40,327 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 15:15:40,329 - root - INFO - 隐式等待20秒
+2021-06-23 15:15:40,443 - root - INFO - 窗口最大化
+2021-06-23 15:15:40,456 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 15:15:40,488 - root - INFO - 点击元素成功
+2021-06-23 15:15:40,499 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 15:15:40,601 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:15:40,612 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 15:15:40,681 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:15:40,692 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 15:15:40,721 - root - INFO - 点击元素成功
+2021-06-23 15:15:40,901 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 15:16:00,104 - root - INFO - 点击元素成功
+2021-06-23 15:16:00,116 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 15:16:00,129 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 15:16:00,129 - root - INFO - 断言登录成功
+2021-06-23 15:16:00,141 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 15:16:00,179 - root - INFO - 点击元素成功
+2021-06-23 15:16:00,179 - root - INFO - 展开企业管理菜单
+2021-06-23 15:16:00,191 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 15:16:00,352 - root - INFO - 点击元素成功
+2021-06-23 15:16:00,365 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:16:00,379 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 15:16:00,379 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 15:16:00,392 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'员工管理')]
+2021-06-23 15:16:00,580 - root - INFO - 点击元素成功
+2021-06-23 15:16:00,591 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:16:00,603 - root - INFO - 获取元素('css', '.section-header')的文本信息为：员工管理
+2021-06-23 15:16:00,604 - root - INFO - 用例test_yuangongguanli通过
+2021-06-23 15:16:00,703 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片管理')]
+2021-06-23 15:16:00,902 - root - INFO - 点击元素成功
+2021-06-23 15:16:00,913 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:16:00,925 - root - INFO - 获取元素('css', '.section-header')的文本信息为：名片管理
+2021-06-23 15:16:00,926 - root - INFO - 用例test_mingpianguanli通过
+2021-06-23 15:16:00,938 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'渠道管理')]
+2021-06-23 15:16:01,036 - root - INFO - 点击元素成功
+2021-06-23 15:16:01,045 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:16:01,057 - root - INFO - 获取元素('css', '.section-header')的文本信息为：渠道管理
+2021-06-23 15:16:01,057 - root - INFO - 用例test_qudaoguanli通过
+2021-06-23 15:16:01,069 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'企业视频管理')]
+2021-06-23 15:16:01,139 - root - INFO - 点击元素成功
+2021-06-23 15:16:01,151 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:16:01,163 - root - INFO - 获取元素('css', '.section-header')的文本信息为：企业视频管理
+2021-06-23 15:16:01,164 - root - INFO - 用例test_qiyeshipingguanli通过
+2021-06-23 15:16:01,176 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'站内信')]
+2021-06-23 15:16:01,227 - root - INFO - 点击元素成功
+2021-06-23 15:16:01,238 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:16:01,249 - root - INFO - 获取元素('css', '.section-header')的文本信息为：基本信息
+2021-06-23 15:16:01,250 - root - INFO - 用例zhanneixin通过
+2021-06-23 15:16:01,263 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'客户管理')]
+2021-06-23 15:16:01,301 - root - INFO - 点击元素成功
+2021-06-23 15:16:01,302 - root - INFO - 展开客户管理菜单
+2021-06-23 15:16:01,314 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'客户数据')]
+2021-06-23 15:16:01,518 - root - INFO - 点击元素成功
+2021-06-23 15:16:01,534 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:16:01,550 - root - INFO - 获取元素('css', '.section-header')的文本信息为：客户资源
+2021-06-23 15:16:01,551 - root - INFO - 用例test_kehushuju通过
+2021-06-23 15:16:01,574 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信用户')]
+2021-06-23 15:16:01,738 - root - INFO - 点击元素成功
+2021-06-23 15:16:01,752 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 15:16:01,764 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：微信昵称
+2021-06-23 15:16:01,764 - root - INFO - 用例test_weixinyonghu通过
+2021-06-23 15:16:01,808 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'公海客户')]
+2021-06-23 15:16:01,886 - root - INFO - 点击元素成功
+2021-06-23 15:16:01,902 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 15:16:01,915 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：未分配
+2021-06-23 15:16:01,915 - root - INFO - 用例test_gonghaikehu通过
+2021-06-23 15:16:52,405 - root - INFO - 启动Chrome浏览器
+2021-06-23 15:16:52,908 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 15:16:52,910 - root - INFO - 隐式等待20秒
+2021-06-23 15:16:53,024 - root - INFO - 窗口最大化
+2021-06-23 15:16:53,037 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 15:16:53,072 - root - INFO - 点击元素成功
+2021-06-23 15:16:53,083 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 15:16:53,184 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:16:53,193 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 15:16:53,261 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:16:53,271 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 15:16:53,299 - root - INFO - 点击元素成功
+2021-06-23 15:16:53,475 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 15:17:12,549 - root - INFO - 点击元素成功
+2021-06-23 15:17:12,560 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 15:17:12,573 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 15:17:12,573 - root - INFO - 断言登录成功
+2021-06-23 15:17:12,584 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 15:17:12,621 - root - INFO - 点击元素成功
+2021-06-23 15:17:12,622 - root - INFO - 展开企业管理菜单
+2021-06-23 15:17:12,634 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 15:17:12,794 - root - INFO - 点击元素成功
+2021-06-23 15:17:12,806 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:17:12,819 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 15:17:12,820 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 15:17:12,833 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'员工管理')]
+2021-06-23 15:17:12,946 - root - INFO - 点击元素成功
+2021-06-23 15:17:12,956 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:17:12,975 - root - INFO - 获取元素('css', '.section-header')的文本信息为：员工管理
+2021-06-23 15:17:12,976 - root - INFO - 用例test_yuangongguanli通过
+2021-06-23 15:17:12,988 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片管理')]
+2021-06-23 15:17:13,193 - root - INFO - 点击元素成功
+2021-06-23 15:17:13,205 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:17:13,218 - root - INFO - 获取元素('css', '.section-header')的文本信息为：名片管理
+2021-06-23 15:17:13,219 - root - INFO - 用例test_mingpianguanli通过
+2021-06-23 15:17:13,233 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'渠道管理')]
+2021-06-23 15:17:13,349 - root - INFO - 点击元素成功
+2021-06-23 15:17:13,358 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:17:13,370 - root - INFO - 获取元素('css', '.section-header')的文本信息为：渠道管理
+2021-06-23 15:17:13,370 - root - INFO - 用例test_qudaoguanli通过
+2021-06-23 15:17:13,415 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'企业视频管理')]
+2021-06-23 15:17:13,462 - root - INFO - 点击元素成功
+2021-06-23 15:17:13,470 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:17:13,482 - root - INFO - 获取元素('css', '.section-header')的文本信息为：企业视频管理
+2021-06-23 15:17:13,483 - root - INFO - 用例test_qiyeshipingguanli通过
+2021-06-23 15:17:13,496 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'站内信')]
+2021-06-23 15:17:13,544 - root - INFO - 点击元素成功
+2021-06-23 15:17:13,552 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:17:13,563 - root - INFO - 获取元素('css', '.section-header')的文本信息为：基本信息
+2021-06-23 15:17:13,563 - root - INFO - 用例zhanneixin通过
+2021-06-23 15:17:13,575 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'客户管理')]
+2021-06-23 15:17:13,608 - root - INFO - 点击元素成功
+2021-06-23 15:17:13,608 - root - INFO - 展开客户管理菜单
+2021-06-23 15:17:13,620 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'客户数据')]
+2021-06-23 15:17:13,812 - root - INFO - 点击元素成功
+2021-06-23 15:17:13,825 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:17:13,844 - root - INFO - 获取元素('css', '.section-header')的文本信息为：客户资源
+2021-06-23 15:17:13,844 - root - INFO - 用例test_kehushuju通过
+2021-06-23 15:17:13,979 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信用户')]
+2021-06-23 15:17:14,083 - root - INFO - 点击元素成功
+2021-06-23 15:17:14,095 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 15:17:14,109 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：微信昵称
+2021-06-23 15:17:14,109 - root - INFO - 用例test_weixinyonghu通过
+2021-06-23 15:17:14,140 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'公海客户')]
+2021-06-23 15:17:14,226 - root - INFO - 点击元素成功
+2021-06-23 15:17:14,239 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 15:17:14,252 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：未分配
+2021-06-23 15:17:14,252 - root - INFO - 用例test_gonghaikehu通过
+2021-06-23 15:28:11,985 - root - INFO - 启动Chrome浏览器
+2021-06-23 15:28:12,503 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 15:28:12,506 - root - INFO - 隐式等待20秒
+2021-06-23 15:28:12,622 - root - INFO - 窗口最大化
+2021-06-23 15:28:12,633 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 15:28:12,667 - root - INFO - 点击元素成功
+2021-06-23 15:28:12,678 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 15:28:12,777 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:28:12,786 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 15:28:12,856 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:28:12,866 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 15:28:12,896 - root - INFO - 点击元素成功
+2021-06-23 15:28:13,088 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 15:28:32,101 - root - INFO - 点击元素成功
+2021-06-23 15:28:32,113 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 15:28:32,128 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 15:28:32,128 - root - INFO - 断言登录成功
+2021-06-23 15:28:32,139 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'商品管理')]
+2021-06-23 15:28:32,176 - root - INFO - 点击元素成功
+2021-06-23 15:28:32,176 - root - INFO - 展开商品管理菜单
+2021-06-23 15:28:32,190 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'选品列表')]
+2021-06-23 15:28:32,309 - root - INFO - 点击元素成功
+2021-06-23 15:28:32,324 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 15:28:32,337 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：商品名称
+2021-06-23 15:28:32,338 - root - INFO - 用例test_xuanpinList通过
+2021-06-23 15:44:36,152 - root - INFO - 启动Chrome浏览器
+2021-06-23 15:44:36,634 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 15:44:36,636 - root - INFO - 隐式等待20秒
+2021-06-23 15:44:36,752 - root - INFO - 窗口最大化
+2021-06-23 15:44:36,764 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 15:44:36,798 - root - INFO - 点击元素成功
+2021-06-23 15:44:36,809 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 15:44:36,914 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:44:36,923 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 15:44:36,994 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:44:37,005 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 15:44:37,036 - root - INFO - 点击元素成功
+2021-06-23 15:44:37,209 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 15:44:56,760 - root - INFO - 点击元素成功
+2021-06-23 15:44:56,781 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 15:44:56,796 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 15:44:56,797 - root - INFO - 断言登录成功
+2021-06-23 15:44:56,807 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'商品管理')]
+2021-06-23 15:44:56,844 - root - INFO - 点击元素成功
+2021-06-23 15:44:56,845 - root - INFO - 展开商品管理菜单
+2021-06-23 15:44:56,857 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'选品列表')]
+2021-06-23 15:44:57,047 - root - INFO - 点击元素成功
+2021-06-23 15:44:57,064 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 15:44:57,077 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：商品名称
+2021-06-23 15:44:57,078 - root - INFO - 用例test_xuanpinList通过
+2021-06-23 15:44:57,091 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'商品列表')]
+2021-06-23 15:44:57,204 - root - INFO - 点击元素成功
+2021-06-23 15:44:57,212 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 15:44:57,226 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：商品名称
+2021-06-23 15:44:57,226 - root - INFO - 用例test_shangpinList通过
+2021-06-23 15:44:57,240 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'添加分类')]
+2021-06-23 15:44:57,324 - root - INFO - 点击元素成功
+2021-06-23 15:44:57,337 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:44:57,346 - root - INFO - 获取元素('css', '.section-header')的文本信息为：添加分类
+2021-06-23 15:44:57,346 - root - INFO - 用例test_tianjiafenlei通过
+2021-06-23 15:44:57,356 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'分类列表')]
+2021-06-23 15:44:57,405 - root - INFO - 点击元素成功
+2021-06-23 15:44:57,421 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//tr/th[1]
+2021-06-23 15:44:57,433 - root - INFO - 获取元素('xpath', '//tr/th[1]')的文本信息为：类别名称
+2021-06-23 15:44:57,433 - root - INFO - 用例test_classificationList通过
+2021-06-23 15:44:57,444 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'助力重置')]
+2021-06-23 15:44:57,517 - root - INFO - 点击元素成功
+2021-06-23 15:44:57,526 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:44:57,537 - root - INFO - 获取元素('css', '.section-header')的文本信息为：营销管理
+2021-06-23 15:44:57,538 - root - INFO - 用例test_zhulichongzhi通过
+2021-06-23 15:44:57,549 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'评论中心')]
+2021-06-23 15:44:57,619 - root - INFO - 点击元素成功
+2021-06-23 15:44:57,630 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 15:44:57,642 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：基础设置
+2021-06-23 15:44:57,642 - root - INFO - 用例test_pinglunguanli通过
+2021-06-23 15:47:26,054 - root - INFO - 启动Chrome浏览器
+2021-06-23 15:47:26,593 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 15:47:26,594 - root - INFO - 隐式等待20秒
+2021-06-23 15:47:26,711 - root - INFO - 窗口最大化
+2021-06-23 15:47:26,723 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 15:47:26,757 - root - INFO - 点击元素成功
+2021-06-23 15:47:26,768 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 15:47:26,868 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:47:26,879 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 15:47:26,950 - root - INFO - 输入的内容：18588671117
+2021-06-23 15:47:26,961 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 15:47:26,996 - root - INFO - 点击元素成功
+2021-06-23 15:47:27,186 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 15:47:46,154 - root - INFO - 点击元素成功
+2021-06-23 15:47:46,166 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 15:47:46,182 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 15:47:46,182 - root - INFO - 断言登录成功
+2021-06-23 15:47:46,194 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 15:47:46,232 - root - INFO - 点击元素成功
+2021-06-23 15:47:46,232 - root - INFO - 展开企业管理菜单
+2021-06-23 15:47:46,246 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 15:47:46,359 - root - INFO - 点击元素成功
+2021-06-23 15:47:46,377 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:47:46,391 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 15:47:46,391 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 15:47:46,406 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'员工管理')]
+2021-06-23 15:47:46,523 - root - INFO - 点击元素成功
+2021-06-23 15:47:46,533 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:47:46,547 - root - INFO - 获取元素('css', '.section-header')的文本信息为：员工管理
+2021-06-23 15:47:46,548 - root - INFO - 用例test_yuangongguanli通过
+2021-06-23 15:47:46,659 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片管理')]
+2021-06-23 15:47:46,888 - root - INFO - 点击元素成功
+2021-06-23 15:47:46,900 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:47:46,913 - root - INFO - 获取元素('css', '.section-header')的文本信息为：名片管理
+2021-06-23 15:47:46,913 - root - INFO - 用例test_mingpianguanli通过
+2021-06-23 15:47:46,929 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'渠道管理')]
+2021-06-23 15:47:47,038 - root - INFO - 点击元素成功
+2021-06-23 15:47:47,048 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:47:47,060 - root - INFO - 获取元素('css', '.section-header')的文本信息为：渠道管理
+2021-06-23 15:47:47,060 - root - INFO - 用例test_qudaoguanli通过
+2021-06-23 15:47:47,098 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'企业视频管理')]
+2021-06-23 15:47:47,148 - root - INFO - 点击元素成功
+2021-06-23 15:47:47,160 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:47:47,172 - root - INFO - 获取元素('css', '.section-header')的文本信息为：企业视频管理
+2021-06-23 15:47:47,173 - root - INFO - 用例test_qiyeshipingguanli通过
+2021-06-23 15:47:47,185 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'站内信')]
+2021-06-23 15:47:47,231 - root - INFO - 点击元素成功
+2021-06-23 15:47:47,239 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:47:47,253 - root - INFO - 获取元素('css', '.section-header')的文本信息为：基本信息
+2021-06-23 15:47:47,253 - root - INFO - 用例zhanneixin通过
+2021-06-23 15:47:47,265 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'客户管理')]
+2021-06-23 15:47:47,298 - root - INFO - 点击元素成功
+2021-06-23 15:47:47,298 - root - INFO - 展开客户管理菜单
+2021-06-23 15:47:47,310 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'客户数据')]
+2021-06-23 15:47:47,501 - root - INFO - 点击元素成功
+2021-06-23 15:47:47,515 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:47:47,533 - root - INFO - 获取元素('css', '.section-header')的文本信息为：客户资源
+2021-06-23 15:47:47,533 - root - INFO - 用例test_kehushuju通过
+2021-06-23 15:47:47,555 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信用户')]
+2021-06-23 15:47:47,621 - root - INFO - 点击元素成功
+2021-06-23 15:47:47,637 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 15:47:47,649 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：微信昵称
+2021-06-23 15:47:47,649 - root - INFO - 用例test_weixinyonghu通过
+2021-06-23 15:47:47,700 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'公海客户')]
+2021-06-23 15:47:47,788 - root - INFO - 点击元素成功
+2021-06-23 15:47:47,803 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 15:47:47,814 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：未分配
+2021-06-23 15:47:47,815 - root - INFO - 用例test_gonghaikehu通过
+2021-06-23 15:47:47,827 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'商品管理')]
+2021-06-23 15:47:47,878 - root - INFO - 点击元素成功
+2021-06-23 15:47:47,878 - root - INFO - 展开商品管理菜单
+2021-06-23 15:47:47,891 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'选品列表')]
+2021-06-23 15:47:48,026 - root - INFO - 点击元素成功
+2021-06-23 15:47:48,039 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 15:47:48,051 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：商品名称
+2021-06-23 15:47:48,052 - root - INFO - 用例test_xuanpinList通过
+2021-06-23 15:47:48,064 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'商品列表')]
+2021-06-23 15:47:48,149 - root - INFO - 点击元素成功
+2021-06-23 15:47:48,164 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 15:47:48,177 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：商品名称
+2021-06-23 15:47:48,177 - root - INFO - 用例test_shangpinList通过
+2021-06-23 15:47:48,190 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'添加分类')]
+2021-06-23 15:47:48,248 - root - INFO - 点击元素成功
+2021-06-23 15:47:48,256 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:47:48,267 - root - INFO - 获取元素('css', '.section-header')的文本信息为：添加分类
+2021-06-23 15:47:48,268 - root - INFO - 用例test_tianjiafenlei通过
+2021-06-23 15:47:48,280 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'分类列表')]
+2021-06-23 15:47:48,357 - root - INFO - 点击元素成功
+2021-06-23 15:47:48,378 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//tr/th[1]
+2021-06-23 15:47:48,391 - root - INFO - 获取元素('xpath', '//tr/th[1]')的文本信息为：类别名称
+2021-06-23 15:47:48,391 - root - INFO - 用例test_classificationList通过
+2021-06-23 15:47:48,405 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'助力重置')]
+2021-06-23 15:47:48,472 - root - INFO - 点击元素成功
+2021-06-23 15:47:48,480 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 15:47:48,493 - root - INFO - 获取元素('css', '.section-header')的文本信息为：营销管理
+2021-06-23 15:47:48,494 - root - INFO - 用例test_zhulichongzhi通过
+2021-06-23 15:47:48,505 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'评论中心')]
+2021-06-23 15:47:48,556 - root - INFO - 点击元素成功
+2021-06-23 15:47:48,565 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 15:47:48,577 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：基础设置
+2021-06-23 15:47:48,578 - root - INFO - 用例test_pinglunguanli通过
+2021-06-23 16:22:34,130 - root - INFO - 启动Chrome浏览器
+2021-06-23 16:22:34,631 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 16:22:34,633 - root - INFO - 隐式等待20秒
+2021-06-23 16:22:34,746 - root - INFO - 窗口最大化
+2021-06-23 16:22:34,759 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 16:22:34,794 - root - INFO - 点击元素成功
+2021-06-23 16:22:34,805 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 16:22:34,905 - root - INFO - 输入的内容：18588671117
+2021-06-23 16:22:34,915 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 16:22:34,985 - root - INFO - 输入的内容：18588671117
+2021-06-23 16:22:34,995 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 16:22:35,024 - root - INFO - 点击元素成功
+2021-06-23 16:22:35,202 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 16:22:54,777 - root - INFO - 点击元素成功
+2021-06-23 16:22:54,797 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 16:22:54,810 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 16:22:54,811 - root - INFO - 断言登录成功
+2021-06-23 16:22:54,822 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 16:22:54,857 - root - INFO - 点击元素成功
+2021-06-23 16:22:54,858 - root - INFO - 展开企业管理菜单
+2021-06-23 16:22:54,872 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 16:22:55,044 - root - INFO - 点击元素成功
+2021-06-23 16:22:55,057 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:22:55,069 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 16:22:55,070 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 16:22:55,083 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'员工管理')]
+2021-06-23 16:22:55,196 - root - INFO - 点击元素成功
+2021-06-23 16:22:55,209 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:22:55,228 - root - INFO - 获取元素('css', '.section-header')的文本信息为：员工管理
+2021-06-23 16:22:55,229 - root - INFO - 用例test_yuangongguanli通过
+2021-06-23 16:22:55,292 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片管理')]
+2021-06-23 16:22:55,573 - root - INFO - 点击元素成功
+2021-06-23 16:22:55,581 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:22:55,594 - root - INFO - 获取元素('css', '.section-header')的文本信息为：名片管理
+2021-06-23 16:22:55,594 - root - INFO - 用例test_mingpianguanli通过
+2021-06-23 16:22:55,608 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'渠道管理')]
+2021-06-23 16:22:55,711 - root - INFO - 点击元素成功
+2021-06-23 16:22:55,720 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:22:55,735 - root - INFO - 获取元素('css', '.section-header')的文本信息为：渠道管理
+2021-06-23 16:22:55,735 - root - INFO - 用例test_qudaoguanli通过
+2021-06-23 16:22:55,782 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'企业视频管理')]
+2021-06-23 16:22:55,833 - root - INFO - 点击元素成功
+2021-06-23 16:22:55,844 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:22:55,855 - root - INFO - 获取元素('css', '.section-header')的文本信息为：企业视频管理
+2021-06-23 16:22:55,856 - root - INFO - 用例test_qiyeshipingguanli通过
+2021-06-23 16:22:55,870 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'站内信')]
+2021-06-23 16:22:55,917 - root - INFO - 点击元素成功
+2021-06-23 16:22:55,925 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:22:55,937 - root - INFO - 获取元素('css', '.section-header')的文本信息为：基本信息
+2021-06-23 16:22:55,938 - root - INFO - 用例zhanneixin通过
+2021-06-23 16:22:55,951 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'客户管理')]
+2021-06-23 16:22:55,990 - root - INFO - 点击元素成功
+2021-06-23 16:22:55,990 - root - INFO - 展开客户管理菜单
+2021-06-23 16:22:56,003 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'客户数据')]
+2021-06-23 16:22:56,195 - root - INFO - 点击元素成功
+2021-06-23 16:22:56,209 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:22:56,225 - root - INFO - 获取元素('css', '.section-header')的文本信息为：客户资源
+2021-06-23 16:22:56,226 - root - INFO - 用例test_kehushuju通过
+2021-06-23 16:22:56,245 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信用户')]
+2021-06-23 16:22:56,408 - root - INFO - 点击元素成功
+2021-06-23 16:22:56,423 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 16:22:56,437 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：微信昵称
+2021-06-23 16:22:56,438 - root - INFO - 用例test_weixinyonghu通过
+2021-06-23 16:22:56,477 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'公海客户')]
+2021-06-23 16:22:56,564 - root - INFO - 点击元素成功
+2021-06-23 16:22:56,579 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 16:22:56,594 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：未分配
+2021-06-23 16:22:56,594 - root - INFO - 用例test_gonghaikehu通过
+2021-06-23 16:22:56,610 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'商品管理')]
+2021-06-23 16:22:56,671 - root - INFO - 点击元素成功
+2021-06-23 16:22:56,671 - root - INFO - 展开商品管理菜单
+2021-06-23 16:22:56,686 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'选品列表')]
+2021-06-23 16:22:56,825 - root - INFO - 点击元素成功
+2021-06-23 16:22:56,838 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 16:22:56,854 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：商品名称
+2021-06-23 16:22:56,854 - root - INFO - 用例test_xuanpinList通过
+2021-06-23 16:22:56,866 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'商品列表')]
+2021-06-23 16:22:56,952 - root - INFO - 点击元素成功
+2021-06-23 16:22:56,970 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 16:22:56,982 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：商品名称
+2021-06-23 16:22:56,983 - root - INFO - 用例test_shangpinList通过
+2021-06-23 16:22:56,996 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'添加分类')]
+2021-06-23 16:22:57,065 - root - INFO - 点击元素成功
+2021-06-23 16:22:57,072 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:22:57,089 - root - INFO - 获取元素('css', '.section-header')的文本信息为：添加分类
+2021-06-23 16:22:57,089 - root - INFO - 用例test_tianjiafenlei通过
+2021-06-23 16:22:57,130 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'分类列表')]
+2021-06-23 16:22:57,181 - root - INFO - 点击元素成功
+2021-06-23 16:22:57,195 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//tr/th[1]
+2021-06-23 16:22:57,206 - root - INFO - 获取元素('xpath', '//tr/th[1]')的文本信息为：类别名称
+2021-06-23 16:22:57,207 - root - INFO - 用例test_classificationList通过
+2021-06-23 16:22:57,219 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'助力重置')]
+2021-06-23 16:22:57,279 - root - INFO - 点击元素成功
+2021-06-23 16:22:57,290 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:22:57,302 - root - INFO - 获取元素('css', '.section-header')的文本信息为：营销管理
+2021-06-23 16:22:57,302 - root - INFO - 用例test_zhulichongzhi通过
+2021-06-23 16:22:57,314 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'评论中心')]
+2021-06-23 16:22:57,362 - root - INFO - 点击元素成功
+2021-06-23 16:22:57,374 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 16:22:57,389 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：基础设置
+2021-06-23 16:22:57,389 - root - INFO - 用例test_pinglunguanli通过
+2021-06-23 16:24:02,908 - root - INFO - 启动Chrome浏览器
+2021-06-23 16:24:03,465 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 16:24:03,466 - root - INFO - 隐式等待20秒
+2021-06-23 16:24:03,582 - root - INFO - 窗口最大化
+2021-06-23 16:24:03,594 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 16:24:03,628 - root - INFO - 点击元素成功
+2021-06-23 16:24:03,639 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 16:24:03,740 - root - INFO - 输入的内容：18588671117
+2021-06-23 16:24:03,750 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 16:24:03,822 - root - INFO - 输入的内容：18588671117
+2021-06-23 16:24:03,831 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 16:24:03,863 - root - INFO - 点击元素成功
+2021-06-23 16:24:04,059 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 16:24:23,136 - root - INFO - 点击元素成功
+2021-06-23 16:24:23,157 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 16:24:23,172 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 16:24:23,173 - root - INFO - 登录成功
+2021-06-23 16:24:23,183 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 16:24:23,217 - root - INFO - 点击元素成功
+2021-06-23 16:24:23,218 - root - INFO - 展开企业管理菜单
+2021-06-23 16:24:23,232 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 16:24:23,399 - root - INFO - 点击元素成功
+2021-06-23 16:24:23,414 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:24:23,428 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 16:24:23,429 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 16:24:23,441 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'员工管理')]
+2021-06-23 16:24:23,554 - root - INFO - 点击元素成功
+2021-06-23 16:24:23,566 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:24:23,587 - root - INFO - 获取元素('css', '.section-header')的文本信息为：员工管理
+2021-06-23 16:24:23,587 - root - INFO - 用例test_yuangongguanli通过
+2021-06-23 16:24:23,664 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片管理')]
+2021-06-23 16:24:23,794 - root - INFO - 点击元素成功
+2021-06-23 16:24:23,803 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:24:23,815 - root - INFO - 获取元素('css', '.section-header')的文本信息为：名片管理
+2021-06-23 16:24:23,815 - root - INFO - 用例test_mingpianguanli通过
+2021-06-23 16:24:23,828 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'渠道管理')]
+2021-06-23 16:24:23,902 - root - INFO - 点击元素成功
+2021-06-23 16:24:23,913 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:24:23,925 - root - INFO - 获取元素('css', '.section-header')的文本信息为：渠道管理
+2021-06-23 16:24:23,925 - root - INFO - 用例test_qudaoguanli通过
+2021-06-23 16:24:23,937 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'企业视频管理')]
+2021-06-23 16:24:24,009 - root - INFO - 点击元素成功
+2021-06-23 16:24:24,021 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:24:24,033 - root - INFO - 获取元素('css', '.section-header')的文本信息为：企业视频管理
+2021-06-23 16:24:24,034 - root - INFO - 用例test_qiyeshipingguanli通过
+2021-06-23 16:24:24,045 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'站内信')]
+2021-06-23 16:24:24,098 - root - INFO - 点击元素成功
+2021-06-23 16:24:24,109 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:24:24,121 - root - INFO - 获取元素('css', '.section-header')的文本信息为：基本信息
+2021-06-23 16:24:24,121 - root - INFO - 用例zhanneixin通过
+2021-06-23 16:24:24,134 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'客户管理')]
+2021-06-23 16:24:24,170 - root - INFO - 点击元素成功
+2021-06-23 16:24:24,170 - root - INFO - 展开客户管理菜单
+2021-06-23 16:24:24,183 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'客户数据')]
+2021-06-23 16:24:24,309 - root - INFO - 点击元素成功
+2021-06-23 16:24:24,333 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:24:24,350 - root - INFO - 获取元素('css', '.section-header')的文本信息为：客户资源
+2021-06-23 16:24:24,351 - root - INFO - 用例test_kehushuju通过
+2021-06-23 16:24:24,365 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信用户')]
+2021-06-23 16:24:24,434 - root - INFO - 点击元素成功
+2021-06-23 16:24:24,449 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 16:24:24,463 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：微信昵称
+2021-06-23 16:24:24,463 - root - INFO - 用例test_weixinyonghu通过
+2021-06-23 16:24:24,477 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'公海客户')]
+2021-06-23 16:24:24,595 - root - INFO - 点击元素成功
+2021-06-23 16:24:24,610 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 16:24:24,621 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：未分配
+2021-06-23 16:24:24,621 - root - INFO - 用例test_gonghaikehu通过
+2021-06-23 16:24:24,637 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'商品管理')]
+2021-06-23 16:24:24,696 - root - INFO - 点击元素成功
+2021-06-23 16:24:24,696 - root - INFO - 展开商品管理菜单
+2021-06-23 16:24:24,709 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'选品列表')]
+2021-06-23 16:24:24,850 - root - INFO - 点击元素成功
+2021-06-23 16:24:24,864 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 16:24:24,880 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：商品名称
+2021-06-23 16:24:24,880 - root - INFO - 用例test_xuanpinList通过
+2021-06-23 16:24:24,894 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'商品列表')]
+2021-06-23 16:24:24,987 - root - INFO - 点击元素成功
+2021-06-23 16:24:24,997 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 16:24:25,012 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：商品名称
+2021-06-23 16:24:25,013 - root - INFO - 用例test_shangpinList通过
+2021-06-23 16:24:25,026 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'添加分类')]
+2021-06-23 16:24:25,088 - root - INFO - 点击元素成功
+2021-06-23 16:24:25,099 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:24:25,111 - root - INFO - 获取元素('css', '.section-header')的文本信息为：添加分类
+2021-06-23 16:24:25,111 - root - INFO - 用例test_tianjiafenlei通过
+2021-06-23 16:24:25,124 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'分类列表')]
+2021-06-23 16:24:25,173 - root - INFO - 点击元素成功
+2021-06-23 16:24:25,186 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//tr/th[1]
+2021-06-23 16:24:25,198 - root - INFO - 获取元素('xpath', '//tr/th[1]')的文本信息为：类别名称
+2021-06-23 16:24:25,199 - root - INFO - 用例test_classificationList通过
+2021-06-23 16:24:25,210 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'助力重置')]
+2021-06-23 16:24:25,272 - root - INFO - 点击元素成功
+2021-06-23 16:24:25,283 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:24:25,297 - root - INFO - 获取元素('css', '.section-header')的文本信息为：营销管理
+2021-06-23 16:24:25,297 - root - INFO - 用例test_zhulichongzhi通过
+2021-06-23 16:24:25,311 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'评论中心')]
+2021-06-23 16:24:25,362 - root - INFO - 点击元素成功
+2021-06-23 16:24:25,371 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 16:24:25,384 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：基础设置
+2021-06-23 16:24:25,385 - root - INFO - 用例test_pinglunguanli通过
+2021-06-23 16:48:01,357 - root - INFO - 启动Chrome浏览器
+2021-06-23 16:48:01,892 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 16:48:01,894 - root - INFO - 隐式等待20秒
+2021-06-23 16:48:02,008 - root - INFO - 窗口最大化
+2021-06-23 16:48:02,019 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 16:48:02,058 - root - INFO - 点击元素成功
+2021-06-23 16:48:02,069 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 16:48:02,172 - root - INFO - 输入的内容：18588671117
+2021-06-23 16:48:02,183 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 16:48:02,249 - root - INFO - 输入的内容：18588671117
+2021-06-23 16:48:02,259 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 16:48:02,289 - root - INFO - 点击元素成功
+2021-06-23 16:48:02,477 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 16:48:21,754 - root - INFO - 点击元素成功
+2021-06-23 16:48:21,769 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 16:48:21,783 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 16:48:21,784 - root - INFO - 登录成功
+2021-06-23 16:48:21,795 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'企业管理')]
+2021-06-23 16:48:21,830 - root - INFO - 点击元素成功
+2021-06-23 16:48:21,830 - root - INFO - 展开企业管理菜单
+2021-06-23 16:48:21,842 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'经销商管理')]
+2021-06-23 16:48:21,949 - root - INFO - 点击元素成功
+2021-06-23 16:48:21,964 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:48:21,976 - root - INFO - 获取元素('css', '.section-header')的文本信息为：经销商管理
+2021-06-23 16:48:21,976 - root - INFO - 用例test_jingxiaoshangguanli通过
+2021-06-23 16:48:21,988 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'员工管理')]
+2021-06-23 16:48:22,100 - root - INFO - 点击元素成功
+2021-06-23 16:48:22,112 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:48:22,126 - root - INFO - 获取元素('css', '.section-header')的文本信息为：员工管理
+2021-06-23 16:48:22,127 - root - INFO - 用例test_yuangongguanli通过
+2021-06-23 16:48:22,142 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片管理')]
+2021-06-23 16:48:22,335 - root - INFO - 点击元素成功
+2021-06-23 16:48:22,344 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:48:22,392 - root - INFO - 获取元素('css', '.section-header')的文本信息为：名片管理
+2021-06-23 16:48:22,392 - root - INFO - 用例test_mingpianguanli通过
+2021-06-23 16:48:22,417 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'渠道管理')]
+2021-06-23 16:48:22,484 - root - INFO - 点击元素成功
+2021-06-23 16:48:22,492 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:48:22,504 - root - INFO - 获取元素('css', '.section-header')的文本信息为：渠道管理
+2021-06-23 16:48:22,504 - root - INFO - 用例test_qudaoguanli通过
+2021-06-23 16:48:22,542 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'企业视频管理')]
+2021-06-23 16:48:22,601 - root - INFO - 点击元素成功
+2021-06-23 16:48:22,608 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:48:22,620 - root - INFO - 获取元素('css', '.section-header')的文本信息为：企业视频管理
+2021-06-23 16:48:22,620 - root - INFO - 用例test_qiyeshipingguanli通过
+2021-06-23 16:48:22,633 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'站内信')]
+2021-06-23 16:48:22,685 - root - INFO - 点击元素成功
+2021-06-23 16:48:22,693 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:48:22,705 - root - INFO - 获取元素('css', '.section-header')的文本信息为：基本信息
+2021-06-23 16:48:22,705 - root - INFO - 用例zhanneixin通过
+2021-06-23 16:48:22,720 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'客户管理')]
+2021-06-23 16:48:22,753 - root - INFO - 点击元素成功
+2021-06-23 16:48:22,753 - root - INFO - 展开客户管理菜单
+2021-06-23 16:48:22,766 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'客户数据')]
+2021-06-23 16:48:22,970 - root - INFO - 点击元素成功
+2021-06-23 16:48:22,987 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:48:23,006 - root - INFO - 获取元素('css', '.section-header')的文本信息为：客户资源
+2021-06-23 16:48:23,006 - root - INFO - 用例test_kehushuju通过
+2021-06-23 16:48:23,144 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信用户')]
+2021-06-23 16:48:23,255 - root - INFO - 点击元素成功
+2021-06-23 16:48:23,269 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 16:48:23,283 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：微信昵称
+2021-06-23 16:48:23,284 - root - INFO - 用例test_weixinyonghu通过
+2021-06-23 16:48:23,306 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'公海客户')]
+2021-06-23 16:48:23,413 - root - INFO - 点击元素成功
+2021-06-23 16:48:23,426 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 16:48:23,438 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：未分配
+2021-06-23 16:48:23,438 - root - INFO - 用例test_gonghaikehu通过
+2021-06-23 16:48:23,451 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'商品管理')]
+2021-06-23 16:48:23,509 - root - INFO - 点击元素成功
+2021-06-23 16:48:23,509 - root - INFO - 展开商品管理菜单
+2021-06-23 16:48:23,521 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'选品列表')]
+2021-06-23 16:48:23,608 - root - INFO - 点击元素成功
+2021-06-23 16:48:23,625 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 16:48:23,639 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：商品名称
+2021-06-23 16:48:23,640 - root - INFO - 用例test_xuanpinList通过
+2021-06-23 16:48:23,652 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'商品列表')]
+2021-06-23 16:48:23,750 - root - INFO - 点击元素成功
+2021-06-23 16:48:23,757 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//form[@class='el-form query-form']/div[1]/label
+2021-06-23 16:48:23,773 - root - INFO - 获取元素('xpath', "//form[@class='el-form query-form']/div[1]/label")的文本信息为：商品名称
+2021-06-23 16:48:23,773 - root - INFO - 用例test_shangpinList通过
+2021-06-23 16:48:23,787 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'添加分类')]
+2021-06-23 16:48:23,841 - root - INFO - 点击元素成功
+2021-06-23 16:48:23,851 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:48:23,863 - root - INFO - 获取元素('css', '.section-header')的文本信息为：添加分类
+2021-06-23 16:48:23,863 - root - INFO - 用例test_tianjiafenlei通过
+2021-06-23 16:48:23,876 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'分类列表')]
+2021-06-23 16:48:23,927 - root - INFO - 点击元素成功
+2021-06-23 16:48:23,964 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//tr/th[1]
+2021-06-23 16:48:24,035 - root - INFO - 获取元素('xpath', '//tr/th[1]')的文本信息为：类别名称
+2021-06-23 16:48:24,035 - root - INFO - 用例test_classificationList通过
+2021-06-23 16:48:24,051 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'助力重置')]
+2021-06-23 16:48:24,093 - root - INFO - 点击元素成功
+2021-06-23 16:48:24,102 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 16:48:24,115 - root - INFO - 获取元素('css', '.section-header')的文本信息为：营销管理
+2021-06-23 16:48:24,116 - root - INFO - 用例test_zhulichongzhi通过
+2021-06-23 16:48:24,127 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'评论中心')]
+2021-06-23 16:48:24,179 - root - INFO - 点击元素成功
+2021-06-23 16:48:24,188 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 16:48:24,201 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：基础设置
+2021-06-23 16:48:24,201 - root - INFO - 用例test_pinglunguanli通过
+2021-06-23 18:45:33,356 - root - INFO - 启动Chrome浏览器
+2021-06-23 18:45:33,835 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 18:45:33,837 - root - INFO - 隐式等待20秒
+2021-06-23 18:45:33,950 - root - INFO - 窗口最大化
+2021-06-23 18:45:33,964 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 18:45:33,998 - root - INFO - 点击元素成功
+2021-06-23 18:45:34,009 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 18:45:34,124 - root - INFO - 输入的内容：18588671117
+2021-06-23 18:45:34,136 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 18:45:34,205 - root - INFO - 输入的内容：18588671117
+2021-06-23 18:45:34,216 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 18:45:34,245 - root - INFO - 点击元素成功
+2021-06-23 18:45:34,419 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 18:45:53,518 - root - INFO - 点击元素成功
+2021-06-23 18:45:53,531 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 18:45:53,545 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 18:45:53,545 - root - INFO - 登录成功
+2021-06-23 18:45:53,557 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 18:45:53,595 - root - INFO - 点击元素成功
+2021-06-23 18:45:53,595 - root - INFO - 展开内容管理菜单
+2021-06-23 18:45:53,608 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'轮播配置')]
+2021-06-23 18:45:53,742 - root - INFO - 点击元素成功
+2021-06-23 18:45:53,755 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//tr/th[1]/div
+2021-06-23 18:45:53,769 - root - INFO - 获取元素('xpath', '//tr/th[1]/div')的文本信息为：入口图片
+2021-06-23 18:45:53,769 - root - INFO - 用例test_lunbopeizhi通过
+2021-06-23 18:57:12,366 - root - INFO - 启动Chrome浏览器
+2021-06-23 18:57:12,884 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 18:57:12,886 - root - INFO - 隐式等待20秒
+2021-06-23 18:57:13,000 - root - INFO - 窗口最大化
+2021-06-23 18:57:13,011 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 18:57:13,043 - root - INFO - 点击元素成功
+2021-06-23 18:57:13,053 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 18:57:13,110 - root - INFO - 输入的内容：18588671117
+2021-06-23 18:57:13,121 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 18:57:13,168 - root - INFO - 输入的内容：18588671117
+2021-06-23 18:57:13,178 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 18:57:13,207 - root - INFO - 点击元素成功
+2021-06-23 18:57:13,383 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 18:57:32,364 - root - INFO - 点击元素成功
+2021-06-23 18:57:32,374 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 18:57:32,388 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 18:57:32,388 - root - INFO - 登录成功
+2021-06-23 18:57:32,400 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 18:57:32,439 - root - INFO - 点击元素成功
+2021-06-23 18:57:32,440 - root - INFO - 展开内容管理菜单
+2021-06-23 18:57:32,453 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'轮播配置')]
+2021-06-23 18:57:32,534 - root - INFO - 点击元素成功
+2021-06-23 18:57:32,547 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//tr/th[1]/div
+2021-06-23 18:57:32,562 - root - INFO - 获取元素('xpath', '//tr/th[1]/div')的文本信息为：入口图片
+2021-06-23 18:57:32,563 - root - INFO - 用例test_lunbopeizhi通过
+2021-06-23 18:57:32,578 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'营销海报')]
+2021-06-23 18:57:32,661 - root - INFO - 点击元素成功
+2021-06-23 18:57:52,698 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class=button-group]/div[2]/button"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 18:57:52,698 - root - ERROR - 获取元素('xpath', '//div[@class=button-group]/div[2]/button')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-23 18:57:52,699 - root - ERROR - 用例test_marketingPoster不通过:assert None == '创建公用模板'
+2021-06-23 18:59:16,258 - root - INFO - 启动Chrome浏览器
+2021-06-23 18:59:16,759 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 18:59:16,760 - root - INFO - 隐式等待20秒
+2021-06-23 18:59:16,874 - root - INFO - 窗口最大化
+2021-06-23 18:59:16,885 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 18:59:16,921 - root - INFO - 点击元素成功
+2021-06-23 18:59:16,932 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 18:59:17,030 - root - INFO - 输入的内容：18588671117
+2021-06-23 18:59:17,042 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 18:59:17,112 - root - INFO - 输入的内容：18588671117
+2021-06-23 18:59:17,122 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 18:59:17,155 - root - INFO - 点击元素成功
+2021-06-23 18:59:17,324 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 18:59:36,459 - root - INFO - 点击元素成功
+2021-06-23 18:59:36,482 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 18:59:36,498 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 18:59:36,498 - root - INFO - 登录成功
+2021-06-23 18:59:36,510 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 18:59:36,556 - root - INFO - 点击元素成功
+2021-06-23 18:59:36,557 - root - INFO - 展开内容管理菜单
+2021-06-23 18:59:36,572 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'轮播配置')]
+2021-06-23 18:59:36,690 - root - INFO - 点击元素成功
+2021-06-23 18:59:36,712 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//tr/th[1]/div
+2021-06-23 18:59:36,724 - root - INFO - 获取元素('xpath', '//tr/th[1]/div')的文本信息为：入口图片
+2021-06-23 18:59:36,725 - root - INFO - 用例test_lunbopeizhi通过
+2021-06-23 18:59:36,738 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'营销海报')]
+2021-06-23 18:59:36,808 - root - INFO - 点击元素成功
+2021-06-23 18:59:36,823 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[@class='button-group']/div[2]/button
+2021-06-23 18:59:36,833 - root - INFO - 获取元素('xpath', "//div[@class='button-group']/div[2]/button")的文本信息为：创建公用模板
+2021-06-23 18:59:36,834 - root - INFO - 用例test_marketingPoster通过
+2021-06-23 19:06:51,556 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:06:52,080 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:06:52,081 - root - INFO - 隐式等待20秒
+2021-06-23 19:06:52,197 - root - INFO - 窗口最大化
+2021-06-23 19:06:52,209 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:06:52,247 - root - INFO - 点击元素成功
+2021-06-23 19:06:52,258 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:06:52,361 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:06:52,370 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:06:52,443 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:06:52,455 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:06:52,487 - root - INFO - 点击元素成功
+2021-06-23 19:06:52,672 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:07:11,545 - root - INFO - 点击元素成功
+2021-06-23 19:07:11,556 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:07:11,569 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:07:11,570 - root - INFO - 登录成功
+2021-06-23 19:07:11,581 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:07:11,619 - root - INFO - 点击元素成功
+2021-06-23 19:07:11,621 - root - INFO - 展开内容管理菜单
+2021-06-23 19:07:11,632 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'轮播配置')]
+2021-06-23 19:07:11,760 - root - INFO - 点击元素成功
+2021-06-23 19:07:11,772 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//tr/th[1]/div
+2021-06-23 19:07:11,787 - root - INFO - 获取元素('xpath', '//tr/th[1]/div')的文本信息为：入口图片
+2021-06-23 19:07:11,788 - root - INFO - 用例test_lunbopeizhi通过
+2021-06-23 19:07:11,801 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'营销海报')]
+2021-06-23 19:07:11,890 - root - INFO - 点击元素成功
+2021-06-23 19:07:11,901 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[@class='button-group']/div[2]/button
+2021-06-23 19:07:11,913 - root - INFO - 获取元素('xpath', "//div[@class='button-group']/div[2]/button")的文本信息为：创建公用模板
+2021-06-23 19:07:11,913 - root - INFO - 用例test_marketingPoster通过
+2021-06-23 19:07:11,923 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'视频管理')]
+2021-06-23 19:07:31,979 - root - INFO - 元素<selenium.webdriver.remote.webelement.WebElement (session="75a62ce46f9597d263e878e794563dcb", element="1f902e1a-7905-42b3-86af-b8c6b1ff0719")>不存在
+2021-06-23 19:07:31,979 - root - ERROR - 点击元素失败Message: element not interactable
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:07:32,123 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'VR案例库')]
+2021-06-23 19:07:32,256 - root - INFO - 点击元素成功
+2021-06-23 19:07:32,321 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 19:07:32,608 - root - INFO - 获取元素('css', '.section-header')的文本信息为：VR案例库
+2021-06-23 19:07:32,608 - root - INFO - 用例test_vrCase通过
+2021-06-23 19:09:23,470 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:09:23,995 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:09:23,998 - root - INFO - 隐式等待20秒
+2021-06-23 19:09:24,113 - root - INFO - 窗口最大化
+2021-06-23 19:09:24,125 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:09:24,158 - root - INFO - 点击元素成功
+2021-06-23 19:09:24,168 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:09:24,270 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:09:24,280 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:09:24,348 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:09:24,357 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:09:24,387 - root - INFO - 点击元素成功
+2021-06-23 19:09:24,567 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:09:43,499 - root - INFO - 点击元素成功
+2021-06-23 19:09:43,514 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:09:43,529 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:09:43,530 - root - INFO - 登录成功
+2021-06-23 19:09:43,540 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:09:43,576 - root - INFO - 点击元素成功
+2021-06-23 19:09:43,576 - root - INFO - 展开内容管理菜单
+2021-06-23 19:09:43,590 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'视频管理')]
+2021-06-23 19:09:59,434 - root - INFO - 点击元素成功
+2021-06-23 19:09:59,437 - root - ERROR - 获取元素('class', 'el-tabs__item.is-active')的文本信息错误,Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:09:59,438 - root - ERROR - 用例test_videoManagement不通过:assert None == '帖子管理'
+2021-06-23 19:11:01,759 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:11:02,286 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:11:02,288 - root - INFO - 隐式等待20秒
+2021-06-23 19:11:02,404 - root - INFO - 窗口最大化
+2021-06-23 19:11:02,416 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:11:02,449 - root - INFO - 点击元素成功
+2021-06-23 19:11:02,463 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:11:02,562 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:11:02,572 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:11:02,641 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:11:02,651 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:11:02,679 - root - INFO - 点击元素成功
+2021-06-23 19:11:02,866 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:11:21,705 - root - INFO - 点击元素成功
+2021-06-23 19:11:21,722 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:11:21,737 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:11:21,737 - root - INFO - 登录成功
+2021-06-23 19:11:21,748 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:11:21,791 - root - INFO - 点击元素成功
+2021-06-23 19:11:21,791 - root - INFO - 展开内容管理菜单
+2021-06-23 19:11:21,803 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'视频管理')]
+2021-06-23 19:11:41,835 - root - INFO - 元素<selenium.webdriver.remote.webelement.WebElement (session="d394288e4d3dea933cef808e24d938a8", element="c95e6f29-6106-4da0-93f0-102585d7405a")>不存在
+2021-06-23 19:11:41,835 - root - ERROR - 点击元素失败Message: element not interactable
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:13:22,381 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:13:22,932 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:13:22,933 - root - INFO - 隐式等待20秒
+2021-06-23 19:13:23,047 - root - INFO - 窗口最大化
+2021-06-23 19:13:23,059 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:13:23,096 - root - INFO - 点击元素成功
+2021-06-23 19:13:23,108 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:13:23,213 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:13:23,223 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:13:23,291 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:13:23,301 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:13:23,330 - root - INFO - 点击元素成功
+2021-06-23 19:13:23,519 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:13:42,785 - root - INFO - 点击元素成功
+2021-06-23 19:13:42,813 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:13:42,829 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:13:42,830 - root - INFO - 登录成功
+2021-06-23 19:13:42,843 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:13:42,884 - root - INFO - 点击元素成功
+2021-06-23 19:13:42,885 - root - INFO - 展开内容管理菜单
+2021-06-23 19:13:42,897 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-menu-item.is-active
+2021-06-23 19:13:42,933 - root - INFO - 点击元素成功
+2021-06-23 19:14:03,000 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item.is-active"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:14:03,001 - root - ERROR - 获取元素('class', 'el-tabs__item.is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-23 19:14:03,003 - root - ERROR - 用例test_videoManagement不通过:assert None == '帖子管理'
+2021-06-23 19:20:12,037 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:20:12,524 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:20:12,526 - root - INFO - 隐式等待20秒
+2021-06-23 19:20:12,643 - root - INFO - 窗口最大化
+2021-06-23 19:20:12,654 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:20:12,687 - root - INFO - 点击元素成功
+2021-06-23 19:20:12,700 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:20:12,806 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:20:12,815 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:20:12,887 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:20:12,898 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:20:12,930 - root - INFO - 点击元素成功
+2021-06-23 19:20:13,103 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:20:31,965 - root - INFO - 点击元素成功
+2021-06-23 19:20:31,977 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:20:31,991 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:20:31,991 - root - INFO - 登录成功
+2021-06-23 19:20:32,002 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:20:32,044 - root - INFO - 点击元素成功
+2021-06-23 19:20:32,045 - root - INFO - 展开内容管理菜单
+2021-06-23 19:20:32,058 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-menu-item.is-active
+2021-06-23 19:20:32,071 - root - INFO - JS点击元素成功
+2021-06-23 19:20:52,116 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item.is-active"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:20:52,117 - root - ERROR - 获取元素('class', 'el-tabs__item.is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-23 19:20:52,118 - root - ERROR - 用例test_videoManagement不通过:assert None == '帖子管理'
+2021-06-23 19:21:28,076 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:21:28,576 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:21:28,578 - root - INFO - 隐式等待20秒
+2021-06-23 19:21:28,693 - root - INFO - 窗口最大化
+2021-06-23 19:21:28,705 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:21:28,738 - root - INFO - 点击元素成功
+2021-06-23 19:21:28,749 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:21:28,853 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:21:28,864 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:21:28,935 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:21:28,945 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:21:28,977 - root - INFO - 点击元素成功
+2021-06-23 19:21:29,157 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:21:48,147 - root - INFO - 点击元素成功
+2021-06-23 19:21:48,158 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:21:48,172 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:21:48,172 - root - INFO - 登录成功
+2021-06-23 19:21:48,183 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:21:48,221 - root - INFO - 点击元素成功
+2021-06-23 19:21:48,222 - root - INFO - 展开内容管理菜单
+2021-06-23 19:21:48,234 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'视频管理')]
+2021-06-23 19:21:48,278 - root - INFO - JS点击元素成功
+2021-06-23 19:22:08,334 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item.is-active"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:22:08,335 - root - ERROR - 获取元素('class', 'el-tabs__item.is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-23 19:22:08,336 - root - ERROR - 用例test_videoManagement不通过:assert None == '帖子管理'
+2021-06-23 19:22:24,209 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:22:24,731 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:22:24,732 - root - INFO - 隐式等待20秒
+2021-06-23 19:22:24,848 - root - INFO - 窗口最大化
+2021-06-23 19:22:24,859 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:22:24,891 - root - INFO - 点击元素成功
+2021-06-23 19:22:24,902 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:22:25,000 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:22:25,010 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:22:25,078 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:22:25,088 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:22:25,120 - root - INFO - 点击元素成功
+2021-06-23 19:22:25,302 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:22:44,195 - root - INFO - 点击元素成功
+2021-06-23 19:22:44,211 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:22:44,225 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:22:44,225 - root - INFO - 登录成功
+2021-06-23 19:22:44,236 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:22:44,281 - root - INFO - 点击元素成功
+2021-06-23 19:22:44,281 - root - INFO - 展开内容管理菜单
+2021-06-23 19:22:44,293 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'视频管理')]
+2021-06-23 19:22:52,778 - root - INFO - 点击元素成功
+2021-06-23 19:22:52,781 - root - ERROR - 获取元素('class', 'el-tabs__item.is-active')的文本信息错误,Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:22:52,781 - root - ERROR - 用例test_videoManagement不通过:assert None == '帖子管理'
+2021-06-23 19:23:16,872 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:23:17,389 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:23:17,391 - root - INFO - 隐式等待20秒
+2021-06-23 19:23:17,507 - root - INFO - 窗口最大化
+2021-06-23 19:23:17,518 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:23:17,550 - root - INFO - 点击元素成功
+2021-06-23 19:23:17,561 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:23:17,662 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:23:17,672 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:23:17,740 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:23:17,749 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:23:17,779 - root - INFO - 点击元素成功
+2021-06-23 19:23:17,966 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:23:18,232 - root - INFO - 点击元素成功
+2021-06-23 19:23:18,234 - root - ERROR - 获取元素('css', '.shop-info')的文本信息错误,Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:23:18,235 - root - ERROR - 登录失败
+2021-06-23 19:23:25,826 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:23:26,341 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:23:26,343 - root - INFO - 隐式等待20秒
+2021-06-23 19:23:26,456 - root - INFO - 窗口最大化
+2021-06-23 19:23:26,467 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:23:26,502 - root - INFO - 点击元素成功
+2021-06-23 19:23:26,513 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:23:26,614 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:23:26,626 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:23:26,696 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:23:26,706 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:23:26,735 - root - INFO - 点击元素成功
+2021-06-23 19:23:26,919 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:23:45,909 - root - INFO - 点击元素成功
+2021-06-23 19:23:45,937 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:23:45,956 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:23:45,956 - root - INFO - 登录成功
+2021-06-23 19:23:45,968 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:23:46,011 - root - INFO - 点击元素成功
+2021-06-23 19:23:46,011 - root - INFO - 展开内容管理菜单
+2021-06-23 19:24:06,050 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@text()='视频管理']"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:24:06,060 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 19:24:26,072 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item.is-active"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:24:26,073 - root - ERROR - 获取元素('class', 'el-tabs__item.is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-23 19:24:26,074 - root - ERROR - 用例test_videoManagement不通过:assert None == '帖子管理'
+2021-06-23 19:25:02,974 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:25:03,506 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:25:03,507 - root - INFO - 隐式等待20秒
+2021-06-23 19:25:03,623 - root - INFO - 窗口最大化
+2021-06-23 19:25:03,635 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:25:03,668 - root - INFO - 点击元素成功
+2021-06-23 19:25:03,678 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:25:03,784 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:25:03,794 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:25:03,861 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:25:03,871 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:25:03,901 - root - INFO - 点击元素成功
+2021-06-23 19:25:04,082 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:25:23,240 - root - INFO - 点击元素成功
+2021-06-23 19:25:23,254 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:25:23,269 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:25:23,269 - root - INFO - 登录成功
+2021-06-23 19:25:23,281 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:25:23,320 - root - INFO - 点击元素成功
+2021-06-23 19:25:23,320 - root - INFO - 展开内容管理菜单
+2021-06-23 19:25:43,371 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//li[text()='视频管理']"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:25:43,379 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 19:26:03,435 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item.is-active"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:26:03,436 - root - ERROR - 获取元素('class', 'el-tabs__item.is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-23 19:26:03,436 - root - ERROR - 用例test_videoManagement不通过:assert None == '帖子管理'
+2021-06-23 19:28:44,679 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:28:45,200 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:28:45,201 - root - INFO - 隐式等待20秒
+2021-06-23 19:28:45,317 - root - INFO - 窗口最大化
+2021-06-23 19:28:45,329 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:28:45,362 - root - INFO - 点击元素成功
+2021-06-23 19:28:45,374 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:28:45,481 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:28:45,491 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:28:45,560 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:28:45,571 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:28:45,601 - root - INFO - 点击元素成功
+2021-06-23 19:28:45,787 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:29:04,622 - root - INFO - 点击元素成功
+2021-06-23 19:29:04,634 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:29:04,648 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:29:04,648 - root - INFO - 登录成功
+2021-06-23 19:29:04,658 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:29:04,696 - root - INFO - 点击元素成功
+2021-06-23 19:29:04,697 - root - INFO - 展开内容管理菜单
+2021-06-23 19:29:24,729 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//li[contains(text(),'营销海报')]/following-sibling::a[1]"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:29:24,730 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 19:29:24,730 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 19:32:25,648 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:32:26,160 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:32:26,161 - root - INFO - 隐式等待20秒
+2021-06-23 19:32:26,275 - root - INFO - 窗口最大化
+2021-06-23 19:32:26,289 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:32:26,324 - root - INFO - 点击元素成功
+2021-06-23 19:32:26,336 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:32:26,439 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:32:26,450 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:32:26,523 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:32:26,534 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:32:26,563 - root - INFO - 点击元素成功
+2021-06-23 19:32:26,744 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:32:45,582 - root - INFO - 点击元素成功
+2021-06-23 19:32:45,600 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:32:45,614 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:32:45,614 - root - INFO - 登录成功
+2021-06-23 19:32:45,625 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:32:45,666 - root - INFO - 点击元素成功
+2021-06-23 19:32:45,666 - root - INFO - 展开内容管理菜单
+2021-06-23 19:32:45,679 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'营销海报')]/following-sibling::*[1]
+2021-06-23 19:32:45,897 - root - INFO - 点击元素成功
+2021-06-23 19:32:45,910 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 19:32:45,923 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：帖子管理
+2021-06-23 19:32:45,923 - root - INFO - 用例test_videoManagement通过
+2021-06-23 19:33:47,010 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:33:47,577 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:33:47,578 - root - INFO - 隐式等待20秒
+2021-06-23 19:33:47,693 - root - INFO - 窗口最大化
+2021-06-23 19:33:47,705 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:33:47,739 - root - INFO - 点击元素成功
+2021-06-23 19:33:47,749 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:33:47,887 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:33:47,898 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:33:47,965 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:33:47,975 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:33:48,005 - root - INFO - 点击元素成功
+2021-06-23 19:33:48,190 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:33:48,489 - root - INFO - 点击元素成功
+2021-06-23 19:33:48,491 - root - ERROR - 获取元素('css', '.shop-info')的文本信息错误,Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:33:48,492 - root - ERROR - 登录失败
+2021-06-23 19:33:53,844 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:33:54,365 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:33:54,367 - root - INFO - 隐式等待20秒
+2021-06-23 19:33:54,480 - root - INFO - 窗口最大化
+2021-06-23 19:33:54,492 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:33:54,530 - root - INFO - 点击元素成功
+2021-06-23 19:33:54,540 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:33:54,654 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:33:54,663 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:33:54,735 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:33:54,745 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:33:54,778 - root - INFO - 点击元素成功
+2021-06-23 19:33:54,961 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:34:13,798 - root - INFO - 点击元素成功
+2021-06-23 19:34:13,809 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:34:13,822 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:34:13,823 - root - INFO - 登录成功
+2021-06-23 19:34:13,834 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:34:13,875 - root - INFO - 点击元素成功
+2021-06-23 19:34:13,875 - root - INFO - 展开内容管理菜单
+2021-06-23 19:34:33,905 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-menu-item is-active"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:34:33,906 - root - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-23 19:34:33,906 - root - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-23 19:36:48,378 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:36:48,888 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:36:48,890 - root - INFO - 隐式等待20秒
+2021-06-23 19:36:49,003 - root - INFO - 窗口最大化
+2021-06-23 19:36:49,014 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:36:49,079 - root - INFO - 点击元素成功
+2021-06-23 19:36:49,089 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:36:49,214 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:36:49,225 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:36:49,299 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:36:49,309 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:36:49,340 - root - INFO - 点击元素成功
+2021-06-23 19:36:49,523 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:37:08,459 - root - INFO - 点击元素成功
+2021-06-23 19:37:08,470 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:37:08,482 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:37:08,483 - root - INFO - 登录成功
+2021-06-23 19:37:08,494 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:37:08,530 - root - INFO - 点击元素成功
+2021-06-23 19:37:08,531 - root - INFO - 展开内容管理菜单
+2021-06-23 19:37:08,544 - root - INFO - 元素定位成功。定位方式：css,使用的值：.el-menu-item.is-active
+2021-06-23 19:37:08,581 - root - INFO - 点击元素成功
+2021-06-23 19:37:28,600 - root - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item.is-active"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-23 19:37:28,600 - root - ERROR - 获取元素('class', 'el-tabs__item.is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-23 19:37:28,601 - root - ERROR - 用例test_videoManagement不通过:assert None == '帖子管理'
+2021-06-23 19:37:51,203 - root - INFO - 启动Chrome浏览器
+2021-06-23 19:37:51,703 - root - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-23 19:37:51,704 - root - INFO - 隐式等待20秒
+2021-06-23 19:37:51,820 - root - INFO - 窗口最大化
+2021-06-23 19:37:51,832 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-23 19:37:51,870 - root - INFO - 点击元素成功
+2021-06-23 19:37:51,882 - root - INFO - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-23 19:37:51,993 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:37:52,003 - root - INFO - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-23 19:37:52,075 - root - INFO - 输入的内容：18588671117
+2021-06-23 19:37:52,085 - root - INFO - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-23 19:37:52,116 - root - INFO - 点击元素成功
+2021-06-23 19:37:52,300 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-23 19:38:11,281 - root - INFO - 点击元素成功
+2021-06-23 19:38:11,292 - root - INFO - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-23 19:38:11,304 - root - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-23 19:38:11,305 - root - INFO - 登录成功
+2021-06-23 19:38:11,316 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'内容管理')]
+2021-06-23 19:38:11,354 - root - INFO - 点击元素成功
+2021-06-23 19:38:11,354 - root - INFO - 展开内容管理菜单
+2021-06-23 19:38:11,368 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'轮播配置')]
+2021-06-23 19:38:11,497 - root - INFO - 点击元素成功
+2021-06-23 19:38:11,509 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//tr/th[1]/div
+2021-06-23 19:38:11,524 - root - INFO - 获取元素('xpath', '//tr/th[1]/div')的文本信息为：入口图片
+2021-06-23 19:38:11,524 - root - INFO - 用例test_lunbopeizhi通过
+2021-06-23 19:38:11,538 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'营销海报')]
+2021-06-23 19:38:11,616 - root - INFO - 点击元素成功
+2021-06-23 19:38:11,627 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//div[@class='button-group']/div[2]/button
+2021-06-23 19:38:11,638 - root - INFO - 获取元素('xpath', "//div[@class='button-group']/div[2]/button")的文本信息为：创建公用模板
+2021-06-23 19:38:11,638 - root - INFO - 用例test_marketingPoster通过
+2021-06-23 19:38:11,649 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'营销海报')]/following-sibling::*[1]
+2021-06-23 19:38:11,744 - root - INFO - 点击元素成功
+2021-06-23 19:38:11,759 - root - INFO - 元素定位成功。定位方式：class,使用的值：el-tabs__item.is-active
+2021-06-23 19:38:11,774 - root - INFO - 获取元素('class', 'el-tabs__item.is-active')的文本信息为：帖子管理
+2021-06-23 19:38:11,774 - root - INFO - 用例test_videoManagement通过
+2021-06-23 19:38:11,797 - root - INFO - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'VR案例库')]
+2021-06-23 19:38:11,885 - root - INFO - 点击元素成功
+2021-06-23 19:38:11,898 - root - INFO - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-23 19:38:11,909 - root - INFO - 获取元素('css', '.section-header')的文本信息为：VR案例库
+2021-06-23 19:38:11,910 - root - INFO - 用例test_vrCase通过
