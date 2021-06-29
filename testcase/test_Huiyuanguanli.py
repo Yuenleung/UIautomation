@@ -299,6 +299,5 @@ class Test_HuiyuanguanliMethods:
 
 if __name__ == '__main__':
     pytest.main(["-s","test_Huiyuanguanli.py::Test_HuiyuanguanliMethods::test_Huiyuanguanli1"])
-    #pytest.main(["-s","test_Huiyuanguanli.py" ,"--html=./report.html"])
 
 
