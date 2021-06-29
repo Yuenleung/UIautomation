@@ -7,17 +7,37 @@
 import logging
 import time
 import os
+from public.readconfig import ReadConfig
+import colorlog
+
+read = ReadConfig()
+logLevel = read.getValue("logLevel", "level")
 
 
+# 设置控制台打印的颜色
+log_colors_config = {
+    'DEBUG': 'yellow',
+    'INFO': 'cyan',
+    'WARNING': 'yellow',
+    'ERROR': 'red',
+    'CRITICAL': 'red',
+}
 class Log:
     def __init__(self):
-        root_path=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        root_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         self.logname = os.path.join(root_path, 'report', 'log', '{0}.log'.format(time.strftime('%Y-%m-%d')))
 
     def __printconsole(self, level, message):
         # 创建一个logger
         logger = logging.getLogger()
-        logger.setLevel(logging.INFO)
+        if logLevel == 'debug':
+            logger.setLevel(logging.DEBUG)
+        elif logLevel == 'info':
+            logger.setLevel(logging.INFO)
+        elif logLevel == 'warn':
+            logger.setLevel(logging.WARN)
+        elif logLevel == 'error':
+            logger.setLevel(logging.ERROR)
         # 创建一个handler，用于写入日志文件
         fh = logging.FileHandler(self.logname, 'a', encoding='utf-8')
         #fh.setLevel(logging.DEBUG)
@@ -25,8 +45,10 @@ class Log:
         ch = logging.StreamHandler()
         #ch.setLevel(logging.DEBUG)
         # 定义handler的输出格式
-        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-        fh.setFormatter(formatter)
+        formatter = colorlog.ColoredFormatter('%(log_color)s %(asctime)s - %(levelname)s - %(message)s',
+                                              log_colors=log_colors_config)
+        formatter1 = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+        fh.setFormatter(formatter1)
         ch.setFormatter(formatter)
         # 给logger添加handler
         logger.addHandler(fh)

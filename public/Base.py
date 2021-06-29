@@ -61,28 +61,28 @@ class BasePase:
             try:
                 if by == 'id':
                     element = self.driver.find_element(By.ID, value)
-                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                    log.debug('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
                 elif by == 'name':
                     element = self.driver.find_element(By.NAME,value)
-                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                    log.debug('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
                 elif by == 'class':
                     element = self.driver.find_element(By.CLASS_NAME,value)
-                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                    log.debug('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
                 elif by == 'tag':
                     element = self.driver.find_element(By.TAG_NAME,value)
-                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                    log.debug('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
                 elif by == 'link':
                     element = self.driver.find_element(By.LINK_TEXT,value)
-                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                    log.debug('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
                 elif by == 'plink':
                     element = self.driver.find_element(By.PARTIAL_LINK_TEXT,value)
-                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                    log.debug('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
                 elif by == 'css':
                     element = self.driver.find_element(By.CSS_SELECTOR,value)
-                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                    log.debug('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
                 elif by == 'xpath':
                     element = self.driver.find_element(By.XPATH,value)
-                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                    log.debug('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
                 else:
                     log.error('没有找到输入的定位方式')
                 return element
