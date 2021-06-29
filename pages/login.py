@@ -17,4 +17,9 @@ class Loginpage(BasePase):
         self.type('id', "phoneNumber", phone)
         self.type('id', "passwd", password)
         self.click('id', "login_btn")
-        self.click('xpath', f"//h3[text()='{miniProgramName}']")
+        if miniProgramName == "美家咖":
+            self.click('xpath', f"//h3[text()='{miniProgramName}']")
+        elif miniProgramName == "营客云":
+            self.click('link', '2')
+            self.click('xpath', f"//h3[text()='{miniProgramName}']")
+
