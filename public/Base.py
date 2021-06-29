@@ -274,3 +274,41 @@ class BasePase:
             log.error('显性等待点击元素失败')
             raise
 
+    def find_elements(self, by, value):
+        """定位元素"""
+        element = None
+        if by in ['id', 'name', 'class', 'tag', 'link', 'plink', 'css', 'xpath']:
+            try:
+                if by == 'id':
+                    elements = self.driver.find_elements(By.ID, value)
+                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                elif by == 'name':
+                    elements = self.driver.find_elements(By.NAME,value)
+                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                elif by == 'class':
+                    elements = self.driver.find_elements(By.CLASS_NAME,value)
+                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                elif by == 'tag':
+                    elements = self.driver.find_elements(By.TAG_NAME,value)
+                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                elif by == 'link':
+                    elements = self.driver.find_elements(By.LINK_TEXT,value)
+                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                elif by == 'plink':
+                    elements = self.driver.find_elements(By.PARTIAL_LINK_TEXT,value)
+                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                elif by == 'css':
+                    elements = self.driver.find_elements(By.CSS_SELECTOR,value)
+                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                elif by == 'xpath':
+                    elements = self.driver.find_elements(By.XPATH,value)
+                    log.info('元素定位成功。定位方式：%s,使用的值：%s' % (by, value))
+                else:
+                    log.error('没有找到输入的定位方式')
+                return elements
+            #输入的元素的值有误
+            except NoSuchElementException as e:
+                log.error("报错信息：{}".format(e))
+        #输入的定位方式有误就报错
+        else:
+            log.error('输入的元素定位方式错误,参考[id, name, class, tag, link, plink, css,xpath]')
