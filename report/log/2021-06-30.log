@@ -1,0 +1,306 @@
+2021-06-30 10:34:57,408 - INFO - 启动Chrome浏览器
+2021-06-30 10:34:57,949 - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-30 10:34:57,952 - INFO - 隐式等待20秒
+2021-06-30 10:34:58,066 - INFO - 窗口最大化
+2021-06-30 10:34:58,117 - INFO - 点击元素成功
+2021-06-30 10:34:58,229 - INFO - 输入的内容：18588671117
+2021-06-30 10:34:58,311 - INFO - 输入的内容：18588671117
+2021-06-30 10:34:58,352 - INFO - 点击元素成功
+2021-06-30 10:35:19,898 - INFO - 点击元素成功
+2021-06-30 10:35:19,925 - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-30 10:35:19,926 - INFO - 登录成功
+2021-06-30 10:35:19,979 - INFO - 点击元素成功
+2021-06-30 10:35:19,979 - INFO - 展开系统设置菜单
+2021-06-30 10:35:20,157 - INFO - 点击元素成功
+2021-06-30 10:35:40,222 - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='widget-app-board-info']/h3"}
+  (Session info: chrome=91.0.4472.124)
+
+2021-06-30 10:35:40,223 - ERROR - 获取元素('xpath', "//div[@class='widget-app-board-info']/h3")的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-30 10:35:40,228 - ERROR - 用例test_Authorization_Settings不通过:assert None == '您已授权以下小程序给营客智能导购系统'
+2021-06-30 10:43:20,470 - INFO - 启动Chrome浏览器
+2021-06-30 10:43:20,979 - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-30 10:43:20,980 - INFO - 隐式等待20秒
+2021-06-30 10:43:21,095 - INFO - 窗口最大化
+2021-06-30 10:43:21,140 - INFO - 点击元素成功
+2021-06-30 10:43:21,255 - INFO - 输入的内容：18588671117
+2021-06-30 10:43:21,333 - INFO - 输入的内容：18588671117
+2021-06-30 10:43:21,372 - INFO - 点击元素成功
+2021-06-30 10:43:40,457 - INFO - 点击元素成功
+2021-06-30 10:43:40,482 - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-30 10:43:40,483 - INFO - 登录成功
+2021-06-30 10:43:40,572 - INFO - 点击元素成功
+2021-06-30 10:43:40,572 - INFO - 展开系统设置菜单
+2021-06-30 10:43:40,976 - INFO - 点击元素成功
+2021-06-30 10:44:00,985 - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item is-active"}
+  (Session info: chrome=91.0.4472.124)
+
+2021-06-30 10:44:00,986 - ERROR - 获取元素('css', '.el-tabs__item is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-30 10:44:00,988 - ERROR - 用例test_functionSetting不通过:assert None == '功能管理'
+2021-06-30 10:54:49,045 - INFO - 启动Chrome浏览器
+2021-06-30 10:54:50,699 - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-30 10:54:50,701 - INFO - 隐式等待20秒
+2021-06-30 10:54:50,822 - INFO - 窗口最大化
+2021-06-30 10:54:50,866 - INFO - 点击元素成功
+2021-06-30 10:54:50,930 - INFO - 输入的内容：18588671117
+2021-06-30 10:54:50,992 - INFO - 输入的内容：18588671117
+2021-06-30 10:54:51,034 - INFO - 点击元素成功
+2021-06-30 10:55:11,285 - INFO - 点击元素成功
+2021-06-30 10:55:11,287 - ERROR - 获取元素('css', '.shop-info')的文本信息错误,Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.124)
+
+2021-06-30 10:55:11,288 - ERROR - 登录失败
+2021-06-30 10:55:27,395 - INFO - 启动Chrome浏览器
+2021-06-30 10:55:28,520 - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-30 10:55:28,523 - INFO - 隐式等待20秒
+2021-06-30 10:55:28,639 - INFO - 窗口最大化
+2021-06-30 10:55:28,652 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-30 10:55:28,684 - INFO - 点击元素成功
+2021-06-30 10:55:28,696 - DEBUG - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-30 10:55:28,803 - INFO - 输入的内容：18588671117
+2021-06-30 10:55:28,813 - DEBUG - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-30 10:55:28,885 - INFO - 输入的内容：18588671117
+2021-06-30 10:55:28,896 - DEBUG - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-30 10:55:28,927 - INFO - 点击元素成功
+2021-06-30 10:55:29,117 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-30 10:56:00,664 - INFO - 点击元素成功
+2021-06-30 10:56:00,676 - DEBUG - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-30 10:56:00,698 - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-30 10:56:00,699 - INFO - 登录成功
+2021-06-30 10:56:00,710 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'系统设置')]
+2021-06-30 10:56:00,751 - INFO - 点击元素成功
+2021-06-30 10:56:00,752 - INFO - 展开系统设置菜单
+2021-06-30 10:56:00,763 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'小程序设置')]
+2021-06-30 10:56:00,928 - INFO - 点击元素成功
+2021-06-30 10:56:00,943 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 10:56:00,956 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：小程序设置
+2021-06-30 10:56:00,956 - INFO - 用例test_miniProgram_setting通过
+2021-06-30 10:56:00,969 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'授权配置')]
+2021-06-30 10:56:01,066 - INFO - 点击元素成功
+2021-06-30 10:56:21,124 - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//li[contains(text(),'底部栏配置')]"}
+  (Session info: chrome=91.0.4472.124)
+
+2021-06-30 10:56:21,125 - ERROR - 'NoneType' object has no attribute 'is_displayed'
+2021-06-30 10:56:21,125 - ERROR - 点击元素失败'NoneType' object has no attribute 'click'
+2021-06-30 10:56:21,220 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'权限管理')]
+2021-06-30 10:56:21,316 - INFO - 点击元素成功
+2021-06-30 10:56:41,323 - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item is-active"}
+  (Session info: chrome=91.0.4472.124)
+
+2021-06-30 10:56:41,323 - ERROR - 获取元素('css', '.el-tabs__item is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-30 10:56:41,324 - ERROR - 用例test_permissions_Management不通过:assert None == '权限管理'
+2021-06-30 10:56:41,339 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'发布管理')]
+2021-06-30 10:56:41,441 - INFO - 点击元素成功
+2021-06-30 10:57:01,453 - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item is-active"}
+  (Session info: chrome=91.0.4472.124)
+
+2021-06-30 10:57:01,455 - ERROR - 获取元素('css', '.el-tabs__item is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-30 10:57:01,457 - ERROR - 用例test_releaseManagement不通过:assert None == '发布管理'
+2021-06-30 10:57:01,485 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信公众号对接')]
+2021-06-30 10:57:01,589 - INFO - 点击元素成功
+2021-06-30 10:58:01,025 - INFO - 启动Chrome浏览器
+2021-06-30 10:58:01,531 - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-30 10:58:01,532 - INFO - 隐式等待20秒
+2021-06-30 10:58:01,645 - INFO - 窗口最大化
+2021-06-30 10:58:01,657 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-30 10:58:01,694 - INFO - 点击元素成功
+2021-06-30 10:58:01,705 - DEBUG - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-30 10:58:01,802 - INFO - 输入的内容：18588671117
+2021-06-30 10:58:01,812 - DEBUG - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-30 10:58:01,881 - INFO - 输入的内容：18588671117
+2021-06-30 10:58:01,891 - DEBUG - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-30 10:58:01,921 - INFO - 点击元素成功
+2021-06-30 10:58:02,105 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-30 10:58:15,245 - INFO - 点击元素成功
+2021-06-30 10:58:15,247 - ERROR - 获取元素('css', '.shop-info')的文本信息错误,Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.124)
+
+2021-06-30 10:58:15,248 - ERROR - 登录失败
+2021-06-30 10:58:57,551 - INFO - 启动Chrome浏览器
+2021-06-30 10:58:58,052 - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-30 10:58:58,054 - INFO - 隐式等待20秒
+2021-06-30 10:58:58,170 - INFO - 窗口最大化
+2021-06-30 10:58:58,182 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-30 10:58:58,217 - INFO - 点击元素成功
+2021-06-30 10:58:58,229 - DEBUG - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-30 10:58:58,327 - INFO - 输入的内容：18588671117
+2021-06-30 10:58:58,338 - DEBUG - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-30 10:58:58,407 - INFO - 输入的内容：18588671117
+2021-06-30 10:58:58,417 - DEBUG - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-30 10:58:58,447 - INFO - 点击元素成功
+2021-06-30 10:58:58,625 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-30 10:59:16,916 - INFO - 点击元素成功
+2021-06-30 10:59:16,930 - DEBUG - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-30 10:59:16,946 - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-30 10:59:16,946 - INFO - 登录成功
+2021-06-30 10:59:16,960 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'系统设置')]
+2021-06-30 10:59:17,001 - INFO - 点击元素成功
+2021-06-30 10:59:17,002 - INFO - 展开系统设置菜单
+2021-06-30 10:59:17,017 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'小程序设置')]
+2021-06-30 10:59:17,140 - INFO - 点击元素成功
+2021-06-30 10:59:17,152 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 10:59:17,166 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：小程序设置
+2021-06-30 10:59:17,166 - INFO - 用例test_miniProgram_setting通过
+2021-06-30 10:59:17,180 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'授权配置')]
+2021-06-30 10:59:17,266 - INFO - 点击元素成功
+2021-06-30 10:59:17,281 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'功能设置')]
+2021-06-30 10:59:17,480 - INFO - 点击元素成功
+2021-06-30 10:59:37,557 - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item is-active"}
+  (Session info: chrome=91.0.4472.124)
+
+2021-06-30 10:59:37,558 - ERROR - 获取元素('css', '.el-tabs__item is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-30 10:59:37,559 - ERROR - 用例test_functionSetting不通过:assert None == '底部栏配置'
+2021-06-30 10:59:37,654 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'权限管理')]
+2021-06-30 10:59:37,736 - INFO - 点击元素成功
+2021-06-30 10:59:57,746 - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item is-active"}
+  (Session info: chrome=91.0.4472.124)
+
+2021-06-30 10:59:57,746 - ERROR - 获取元素('css', '.el-tabs__item is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-30 10:59:57,748 - ERROR - 用例test_permissions_Management不通过:assert None == '权限管理'
+2021-06-30 10:59:57,766 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'发布管理')]
+2021-06-30 10:59:57,850 - INFO - 点击元素成功
+2021-06-30 11:00:17,872 - ERROR - 报错信息：Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-tabs__item is-active"}
+  (Session info: chrome=91.0.4472.124)
+
+2021-06-30 11:00:17,872 - ERROR - 获取元素('css', '.el-tabs__item is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-30 11:00:17,873 - ERROR - 用例test_releaseManagement不通过:assert None == '发布管理'
+2021-06-30 11:00:17,887 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信公众号对接')]
+2021-06-30 11:00:17,982 - INFO - 点击元素成功
+2021-06-30 11:00:25,647 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item is-active
+2021-06-30 11:00:25,648 - ERROR - 获取元素('css', '.el-tabs__item is-active')的文本信息错误,'NoneType' object has no attribute 'text'
+2021-06-30 11:00:25,649 - ERROR - 用例test_wechatDocking不通过:assert None == '公众号配置'
+2021-06-30 11:00:29,270 - INFO - 启动Chrome浏览器
+2021-06-30 11:00:29,758 - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-30 11:00:29,760 - INFO - 隐式等待20秒
+2021-06-30 11:00:29,875 - INFO - 窗口最大化
+2021-06-30 11:00:29,887 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-30 11:00:29,920 - INFO - 点击元素成功
+2021-06-30 11:00:29,933 - DEBUG - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-30 11:00:30,047 - INFO - 输入的内容：18588671117
+2021-06-30 11:00:30,057 - DEBUG - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-30 11:00:30,136 - INFO - 输入的内容：18588671117
+2021-06-30 11:00:30,146 - DEBUG - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-30 11:00:30,176 - INFO - 点击元素成功
+2021-06-30 11:00:30,365 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-30 11:00:48,591 - INFO - 点击元素成功
+2021-06-30 11:00:48,606 - DEBUG - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-30 11:00:48,622 - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-30 11:00:48,622 - INFO - 登录成功
+2021-06-30 11:00:48,636 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'系统设置')]
+2021-06-30 11:00:48,679 - INFO - 点击元素成功
+2021-06-30 11:00:48,679 - INFO - 展开系统设置菜单
+2021-06-30 11:00:48,694 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'小程序设置')]
+2021-06-30 11:00:48,859 - INFO - 点击元素成功
+2021-06-30 11:00:48,875 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 11:00:48,888 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：小程序设置
+2021-06-30 11:00:48,889 - INFO - 用例test_miniProgram_setting通过
+2021-06-30 11:00:48,903 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'授权配置')]
+2021-06-30 11:00:48,992 - INFO - 点击元素成功
+2021-06-30 11:00:49,010 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'功能设置')]
+2021-06-30 11:00:49,212 - INFO - 点击元素成功
+2021-06-30 11:00:49,239 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 11:00:49,257 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：底部栏配置
+2021-06-30 11:00:49,257 - INFO - 用例test_functionSetting通过
+2021-06-30 11:00:49,278 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'权限管理')]
+2021-06-30 11:00:49,428 - INFO - 点击元素成功
+2021-06-30 11:00:49,436 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 11:00:49,449 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：权限管理
+2021-06-30 11:00:49,449 - INFO - 用例test_permissions_Management通过
+2021-06-30 11:00:49,463 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'发布管理')]
+2021-06-30 11:00:49,524 - INFO - 点击元素成功
+2021-06-30 11:00:49,533 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 11:00:49,544 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：发布管理
+2021-06-30 11:00:49,544 - INFO - 用例test_releaseManagement通过
+2021-06-30 11:00:49,555 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信公众号对接')]
+2021-06-30 11:00:49,610 - INFO - 点击元素成功
+2021-06-30 11:00:49,620 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 11:00:49,633 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：公众号配置
+2021-06-30 11:00:49,634 - INFO - 用例test_wechatDocking通过
+2021-06-30 11:00:49,646 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片样式设置')]
+2021-06-30 11:00:49,702 - INFO - 点击元素成功
+2021-06-30 11:00:49,716 - DEBUG - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-30 11:00:49,728 - INFO - 获取元素('css', '.section-header')的文本信息为：名片信息
+2021-06-30 11:00:49,728 - INFO - 用例test_card_style_Settings通过
+2021-06-30 11:00:49,740 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片拓展字段')]
+2021-06-30 11:00:49,776 - INFO - 点击元素成功
+2021-06-30 11:00:49,787 - DEBUG - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-30 11:00:49,801 - INFO - 获取元素('css', '.section-header')的文本信息为：名片拓展字段
+2021-06-30 11:00:49,801 - INFO - 用例test_card_expansion_field通过
+2021-06-30 11:00:49,814 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'订阅消息管理')]
+2021-06-30 11:00:49,852 - INFO - 点击元素成功
+2021-06-30 11:05:52,749 - INFO - 启动Chrome浏览器
+2021-06-30 11:05:53,264 - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-30 11:05:53,266 - INFO - 隐式等待20秒
+2021-06-30 11:05:53,381 - INFO - 窗口最大化
+2021-06-30 11:05:53,397 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-30 11:05:53,440 - INFO - 点击元素成功
+2021-06-30 11:05:53,450 - DEBUG - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-30 11:05:53,561 - INFO - 输入的内容：18588671117
+2021-06-30 11:05:53,572 - DEBUG - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-30 11:05:53,644 - INFO - 输入的内容：18588671117
+2021-06-30 11:05:53,654 - DEBUG - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-30 11:05:53,685 - INFO - 点击元素成功
+2021-06-30 11:05:53,881 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-30 11:06:27,986 - INFO - 启动Chrome浏览器
+2021-06-30 11:06:28,478 - INFO - 打开链接：https://ykpre.theali.cn/
+2021-06-30 11:06:28,479 - INFO - 隐式等待20秒
+2021-06-30 11:06:28,593 - INFO - 窗口最大化
+2021-06-30 11:06:28,607 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//span[text()='我是管理员']
+2021-06-30 11:06:28,647 - INFO - 点击元素成功
+2021-06-30 11:06:28,660 - DEBUG - 元素定位成功。定位方式：id,使用的值：phoneNumber
+2021-06-30 11:06:28,775 - INFO - 输入的内容：18588671117
+2021-06-30 11:06:28,785 - DEBUG - 元素定位成功。定位方式：id,使用的值：passwd
+2021-06-30 11:06:28,853 - INFO - 输入的内容：18588671117
+2021-06-30 11:06:28,863 - DEBUG - 元素定位成功。定位方式：id,使用的值：login_btn
+2021-06-30 11:06:28,892 - INFO - 点击元素成功
+2021-06-30 11:06:29,079 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//h3[text()='美家咖']
+2021-06-30 11:06:48,032 - INFO - 点击元素成功
+2021-06-30 11:06:48,048 - DEBUG - 元素定位成功。定位方式：css,使用的值：.shop-info
+2021-06-30 11:06:48,062 - INFO - 获取元素('css', '.shop-info')的文本信息为：小程序名称：美家咖  小程序二维码
+2021-06-30 11:06:48,063 - INFO - 登录成功
+2021-06-30 11:06:48,075 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//div[contains(text(),'系统设置')]
+2021-06-30 11:06:48,111 - INFO - 点击元素成功
+2021-06-30 11:06:48,112 - INFO - 展开系统设置菜单
+2021-06-30 11:06:48,124 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'小程序设置')]
+2021-06-30 11:06:48,225 - INFO - 点击元素成功
+2021-06-30 11:06:48,240 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 11:06:48,253 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：小程序设置
+2021-06-30 11:06:48,253 - INFO - 用例test_miniProgram_setting通过
+2021-06-30 11:06:48,266 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'授权配置')]
+2021-06-30 11:06:48,329 - INFO - 点击元素成功
+2021-06-30 11:06:48,344 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'功能设置')]
+2021-06-30 11:06:48,542 - INFO - 点击元素成功
+2021-06-30 11:06:48,556 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 11:06:48,573 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：底部栏配置
+2021-06-30 11:06:48,573 - INFO - 用例test_functionSetting通过
+2021-06-30 11:06:48,635 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'权限管理')]
+2021-06-30 11:06:48,700 - INFO - 点击元素成功
+2021-06-30 11:06:48,709 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 11:06:48,724 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：权限管理
+2021-06-30 11:06:48,724 - INFO - 用例test_permissions_Management通过
+2021-06-30 11:06:48,738 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'发布管理')]
+2021-06-30 11:06:48,801 - INFO - 点击元素成功
+2021-06-30 11:06:48,810 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 11:06:48,823 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：发布管理
+2021-06-30 11:06:48,823 - INFO - 用例test_releaseManagement通过
+2021-06-30 11:06:48,836 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'微信公众号对接')]
+2021-06-30 11:06:48,891 - INFO - 点击元素成功
+2021-06-30 11:06:48,903 - DEBUG - 元素定位成功。定位方式：css,使用的值：.el-tabs__item.is-active
+2021-06-30 11:06:48,914 - INFO - 获取元素('css', '.el-tabs__item.is-active')的文本信息为：公众号配置
+2021-06-30 11:06:48,915 - INFO - 用例test_wechatDocking通过
+2021-06-30 11:06:48,927 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片样式设置')]
+2021-06-30 11:06:48,972 - INFO - 点击元素成功
+2021-06-30 11:06:48,987 - DEBUG - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-30 11:06:48,999 - INFO - 获取元素('css', '.section-header')的文本信息为：名片信息
+2021-06-30 11:06:48,999 - INFO - 用例test_card_style_Settings通过
+2021-06-30 11:06:49,012 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'名片拓展字段')]
+2021-06-30 11:06:49,070 - INFO - 点击元素成功
+2021-06-30 11:06:49,080 - DEBUG - 元素定位成功。定位方式：css,使用的值：.section-header
+2021-06-30 11:06:49,095 - INFO - 获取元素('css', '.section-header')的文本信息为：名片拓展字段
+2021-06-30 11:06:49,099 - ERROR - 用例test_card_expansion_field不通过:assert '名片拓展字段' == '名片拓展字'
+  - 名片拓展字
+  + 名片拓展字段
+  ?      +
+2021-06-30 11:06:49,204 - DEBUG - 元素定位成功。定位方式：xpath,使用的值：//li[contains(text(),'订阅消息管理')]
+2021-06-30 11:06:49,241 - INFO - 点击元素成功
