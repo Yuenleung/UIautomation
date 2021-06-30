@@ -93,7 +93,7 @@ class Test_xitongshezhiMethods:
         self.User.click('xpath', "//li[contains(text(),'名片拓展字段')]")
         text = self.User.get_text("css", ".section-header")
         try:
-            assert text == '名片拓展字'
+            assert text == '名片拓展字段'
             log.info('用例test_card_expansion_field通过')
         except AssertionError as e:
             log.error(f'用例test_card_expansion_field不通过:{e}')
@@ -109,7 +109,7 @@ class Test_xitongshezhiMethods:
         # except AssertionError as e:
         #     log.error(f'用例test_card_expansion_field不通过:{e}')
         #     raise
-
+        self.User.quit_browser()  # 关闭浏览器
 
 if __name__ == '__main__':
     pytest.main(["-s", "test_system_Settings.py::Test_xitongshezhiMethods"])
